@@ -1,4 +1,4 @@
-## Repo for ThinkAI Association's Spring 2026 Meeting Slides!
+## ThinkAI Association's Spring 2026 Meeting Slides!
 
 - **[2/17/26 ThinkAI x BSA Business & AI Workshop](docs/ai-business.pdf)**
 ![Screenshot of Thumbnail](img/AI%20in%20business%20creation.png)
