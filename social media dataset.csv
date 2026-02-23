@@ -1,0 +1,734 @@
+﻿Area;Category;Day;Month;Platform;Post Type;Timestamp;User;Week;Year;Comments;Engagement Rate;Hour;Impressions;Likes;Reach;Shares
+Aceh;Medium;15;1;Twitter;Video;15/01/2023 12:30:00;User123;3;2023;77;31,32;12;2619;415;1842;85
+Bali;Low;15;1;Twitter;Video;15/01/2023 08:45:00;CommuterX;3;2023;125;28,78;8;1223;908;3884;85
+Bangka Belitung;High;15;1;Instagram;Video;15/01/2023 15:45:00;FitnessFan;3;2023;419;104,71;15;2165;412;849;58
+Banten;Low;15;1;TikTok;Image;15/01/2023 18:20:00;AdventureX;3;2023;153;24,13;18;7191;667;3519;29
+Bengkulu;Medium;15;1;Instagram;Image;15/01/2023 19:55:00;ChefCook;3;2023;215;44,69;19;3312;659;2032;34
+DI Yogyakarta;Medium;16;1;Twitter;Video;16/01/2023 09:10:00;GratitudeNow;3;2023;438;39,67;9;3871;510;2667;110
+DKI Jakarta;High;16;1;TikTok;Image;16/01/2023 14:45:00;RainyDays;3;2023;239;77,53;14;5681;874;1553;91
+Gorontalo;Medium;16;1;Instagram;Image;16/01/2023 19:30:00;MovieBuff;3;2023;135;56,88;19;9436;627;1498;90
+Jambi;Medium;17;1;Twitter;Image;17/01/2023 08:00:00;DebateTalk;3;2023;378;39,84;8;8539;1000;3695;94
+Jawa Barat;Low;17;1;TikTok;Video;17/01/2023 12:20:00;BeachLover;3;2023;135;28,55;12;6769;573;2508;8
+Jawa Tengah;Medium;17;1;Instagram;Image;17/01/2023 15:15:00;BloggerX;3;2023;29;34,68;15;1386;604;1831;2
+Jawa Timur;Low;18;1;Twitter;Image;18/01/2023 10:30:00;WellnessCheck;3;2023;230;14,62;10;2516;288;3927;56
+Kalimantan Barat;Low;18;1;TikTok;Image;18/01/2023 14:50:00;UrbanExplorer;3;2023;92;20,23;14;1377;870;4829;15
+Kalimantan Selatan;Low;18;1;Instagram;Image;18/01/2023 18:00:00;FitJourney;3;2023;195;19,07;18;7970;322;3477;146
+Kalimantan Tengah;Low;19;1;Twitter;Image;19/01/2023 09:45:00;TechEnthusiast;3;2023;30;16,27;9;4249;387;2901;55
+Kalimantan Timur;Medium;19;1;TikTok;Image;19/01/2023 13:20:00;Reflections;3;2023;271;34,79;13;3250;416;2101;44
+Kalimantan Utara;Medium;19;1;Instagram;Image;19/01/2023 17:10:00;PetAdopter;3;2023;267;31,69;17;4463;632;3020;58
+Kepulauan Riau;Medium;20;1;Twitter;Video;20/01/2023 00:05:00;GamerX;3;2023;95;38,31;0;3135;759;2284;21
+Lampung;Low;20;1;TikTok;Image;20/01/2023 11:30:00;TechConference;3;2023;49;10,02;11;9224;210;3443;86
+Maluku;High;20;1;Instagram;Image;20/01/2023 15:15:00;WinterBlues;3;2023;302;189,53;15;5753;843;678;140
+Maluku Utara;Medium;21;1;Twitter;Image;21/01/2023 08:40:00;Bookworm;3;2023;169;61,53;8;6165;872;1726;21
+Nusa Tenggara Barat;High;21;1;TikTok;Image;21/01/2023 13:20:00;VRExplorer;3;2023;325;198,5;13;3399;807;668;194
+Nusa Tenggara Timur;Low;21;1;Instagram;Image;21/01/2023 16:45:00;ProductivityPro;3;2023;70;20,03;16;9801;252;2192;117
+Papua;Medium;22;1;Twitter;Video;22/01/2023 09:15:00;FitnessWarrior;4;2023;489;41,72;9;8910;915;3579;89
+Papua Barat;High;22;1;TikTok;Image;22/01/2023 14:30:00;CareerMilestone;4;2023;207;72,14;14;9118;266;707;37
+Papua Tengah;Medium;22;1;Instagram;Image;22/01/2023 12:00:00;BrunchBuddy;4;2023;308;58,73;12;3459;838;2125;102
+Papua Pegunungan;High;23;1;TikTok;Image;23/01/2023 16:20:00;LanguageLearner;4;2023;296;94,32;16;2934;655;1144;128
+Papua Selatan;Low;23;1;Instagram;Image;23/01/2023 19:45:00;BookLover;4;2023;192;28,03;19;1949;573;2797;19
+Papua Barat Daya;High;24;1;Twitter;Image;24/01/2023 11:30:00;MentalHealthMatters;4;2023;206;214,37;11;6827;816;501;52
+Riau;High;24;1;TikTok;Video;24/01/2023 15:00:00;ArtistInAction;4;2023;393;166,38;15;3286;976;925;170
+Sulawesi Barat;Low;24;1;Instagram;Image;24/01/2023 17:30:00;RoadTripper;4;2023;223;22,63;17;2813;430;3265;86
+Sulawesi Selatan;Low;25;1;Twitter;Video;25/01/2023 18:00:00;SunsetWatcher;4;2023;67;12,1;18;9628;497;4876;26
+Sulawesi Tengah;Low;25;1;TikTok;Video;25/01/2023 13:15:00;CodeEnthusiast;4;2023;233;25,2;13;3182;403;3004;121
+Sulawesi Tenggara;Medium;26;1;Instagram;Video;26/01/2023 09:45:00;WorkshopAttendee;4;2023;365;37,98;9;9250;455;2309;57
+Sulawesi Utara;High;26;1;Twitter;Image;26/01/2023 14:20:00;WinterSports;4;2023;407;83,9;14;7980;679;1509;180
+Sumatera Barat;High;26;1;TikTok;Video;26/01/2023 17:40:00;FamilyTime;4;2023;301;83,05;17;3606;430;1056;146
+Sumatera Selatan;Medium;27;1;Instagram;Image;27/01/2023 20:00:00;MusicLover;4;2023;464;38;20;9541;979;3937;53
+Sumatera Utara;Low;27;1;Twitter;Image;27/01/2023 12:30:00;MindfulMoments;4;2023;214;18,87;12;7410;272;3635;200
+Aceh;Medium;27;1;TikTok;Image;27/01/2023 16:10:00;DessertExplorer;4;2023;309;36,92;16;3404;973;3917;164
+Bali;Low;28;1;Instagram;Image;28/01/2023 09:00:00;GamingEnthusiast;4;2023;171;25,24;9;8895;823;4580;162
+Bangka Belitung;Low;28;1;Twitter;Image;28/01/2023 14:45:00;GardenPlanner;4;2023;327;13,06;14;1010;137;4631;141
+Banten;Low;28;1;TikTok;Image;28/01/2023 19:30:00;BirthdayBash;4;2023;36;22,67;19;3258;658;3626;128
+Bengkulu;Low;29;1;Instagram;Image;29/01/2023 17:00:00;ProductivityWin;5;2023;476;21,97;17;1436;352;4242;104
+DI Yogyakarta;Medium;29;1;Twitter;Video;29/01/2023 20:20:00;MovieNight;5;2023;403;49,13;20;3945;185;1378;89
+DKI Jakarta;High;30;1;TikTok;Image;30/01/2023 11:30:00;ArtExplorer;5;2023;136;147,74;11;9599;917;798;126
+Gorontalo;Low;30;1;Instagram;Image;30/01/2023 15:45:00;BookwormX;5;2023;325;23,51;15;5589;455;3335;4
+Jambi;Medium;30;1;Twitter;Image;30/01/2023 18:30:00;VRMeetup;5;2023;301;52,41;18;9898;177;1080;88
+Jawa Barat;Medium;31;1;TikTok;Image;31/01/2023 10:45:00;NatureLover;5;2023;395;68,67;10;2280;431;1213;7
+Jawa Tengah;Medium;31;1;Instagram;Image;31/01/2023 19:00:00;ChefAtHome;5;2023;337;56,6;19;7284;897;2401;125
+Jawa Timur;Low;31;1;Twitter;Image;31/01/2023 16:20:00;OptimisticMindset;5;2023;23;23,41;16;3402;378;2405;162
+Kalimantan Barat;Medium;1;2;TikTok;Video;01/02/2023 08:00:00;FitnessChallenge;5;2023;249;55,88;8;2391;848;2033;39
+Kalimantan Selatan;Medium;1;2;Instagram;Image;01/02/2023 13:30:00;BikeExplorer;5;2023;41;56,17;13;8529;574;1150;31
+Kalimantan Tengah;Medium;11;2;Twitter;Image;11/02/2023 09:30:00;SocialJustice;6;2023;374;42,38;9;2118;549;2409;98
+Kalimantan Timur;Low;11;2;Instagram;Video;11/02/2023 21:15:00;ThrillerFan;6;2023;442;17,15;21;3305;206;4835;181
+Kalimantan Utara;High;12;2;TikTok;Image;12/02/2023 14:45:00;EmpathyFirst;7;2023;386;93,93;14;8412;605;1169;107
+Kepulauan Riau;Low;12;2;Twitter;Image;12/02/2023 18:20:00;EcoAwareness;7;2023;247;18,44;18;6117;518;4464;58
+Lampung;Low;13;2;Instagram;Video;13/02/2023 10:00:00;ProudFriend;7;2023;25;13,64;10;9855;376;4202;172
+Maluku;High;13;2;TikTok;Image;13/02/2023 19:30:00;ComedyFan;7;2023;144;94,22;19;1734;689;1056;162
+Maluku Utara;High;14;2;Twitter;Image;14/02/2023 08:30:00;LoveSpreader;7;2023;128;164,09;8;1384;877;660;78
+Nusa Tenggara Barat;Medium;14;2;Instagram;Image;14/02/2023 14:20:00;AmusedSoul;7;2023;198;38,14;14;2412;742;2517;20
+Nusa Tenggara Timur;Low;14;2;TikTok;Image;14/02/2023 19:45:00;BookLoverAgain;7;2023;130;18,62;19;9351;197;1971;40
+Papua;High;15;2;Twitter;Image;15/02/2023 11:30:00;NatureAdmirer;7;2023;260;158,44;11;2257;657;705;200
+Papua Barat;High;15;2;Instagram;Image;15/02/2023 16:00:00;AffectionSender;7;2023;151;100,98;16;9780;952;1125;33
+Papua Tengah;Medium;15;2;TikTok;Image;15/02/2023 20:30:00;AweStruck;7;2023;243;37,15;20;4752;732;3141;192
+Papua Pegunungan;Low;16;2;Twitter;Image;16/02/2023 09:00:00;FoodieGoneWrong;7;2023;397;12,35;9;6621;82;3944;8
+Papua Selatan;Low;16;2;Instagram;Image;16/02/2023 14:45:00;HappySurprise;7;2023;178;23,46;14;7578;120;1897;147
+Papua Barat Daya;High;16;2;TikTok;Video;16/02/2023 18:20:00;AcceptanceSeeker;7;2023;205;93,45;18;6396;876;1268;104
+Riau;Medium;17;2;Twitter;Video;17/02/2023 10:45:00;PetAdorer;7;2023;271;43,62;10;7506;891;2664;0
+Sulawesi Barat;Low;17;2;Instagram;Image;17/02/2023 07:30:00;AdventureAwaits;7;2023;178;17,05;7;6437;203;2404;29
+Sulawesi Selatan;Low;17;2;TikTok;Image;17/02/2023 15:00:00;LearnFromBitter;7;2023;235;18,55;15;7702;100;2674;161
+Sulawesi Tengah;Medium;18;2;Twitter;Image;18/02/2023 09:30:00;ZenMaster;7;2023;139;39,75;9;9843;877;2795;95
+Sulawesi Tenggara;Medium;18;2;Instagram;Video;18/02/2023 14:20:00;ConfusedMind;7;2023;350;36,56;14;4630;731;3487;194
+Sulawesi Utara;High;18;2;TikTok;Image;18/02/2023 18:45:00;VacationDreamer;7;2023;374;103,45;18;3240;810;1161;17
+Sumatera Barat;Medium;19;2;Twitter;Image;19/02/2023 11:30:00;KindnessPrevails;8;2023;307;53,65;11;3001;820;2356;137
+Sumatera Selatan;High;19;2;Instagram;Video;19/02/2023 16:00:00;PersonalAchiever;8;2023;200;96,19;16;4025;303;656;128
+Sumatera Utara;Low;19;2;TikTok;Image;19/02/2023 19:45:00;ReflectiveSelf;8;2023;221;19,86;19;6560;513;4301;120
+Aceh;Medium;20;2;Twitter;Image;20/02/2023 09:30:00;AngryDebater;8;2023;97;37,28;9;7569;344;1615;161
+Bali;High;20;2;Instagram;Image;20/02/2023 21:15:00;FearfulDreamer;8;2023;227;125,84;21;4186;740;890;153
+Bangka Belitung;Medium;21;2;TikTok;Image;21/02/2023 14:45:00;FarewellHeart;8;2023;4;32,32;14;5645;877;3159;140
+Banten;High;21;2;Twitter;Video;21/02/2023 18:20:00;AntiCorruption;8;2023;272;85,87;18;6883;385;807;36
+Bengkulu;Low;22;2;Instagram;Image;22/02/2023 10:00:00;NewParentJoy;8;2023;428;22,58;10;8388;464;4703;170
+DI Yogyakarta;Medium;22;2;TikTok;Image;22/02/2023 19:30:00;StandUpFan;8;2023;329;35,44;19;9821;652;2912;51
+DKI Jakarta;Medium;23;2;Twitter;Image;23/02/2023 08:30:00;LoveSender;8;2023;138;44,2;8;3475;243;1251;172
+Gorontalo;Low;23;2;Instagram;Image;23/02/2023 14:20:00;PetAmuser;8;2023;466;17,45;14;9067;14;3404;114
+Jambi;Medium;23;2;TikTok;Video;23/02/2023 19:45:00;TravelExplorer;8;2023;424;37,4;19;5500;294;2040;45
+Jawa Barat;High;24;2;Twitter;Image;24/02/2023 11:30:00;CharityAdmirer;8;2023;442;72,53;11;2777;199;1012;93
+Jawa Tengah;High;24;2;Instagram;Video;24/02/2023 16:00:00;FamilyLover;8;2023;441;120,41;16;6532;370;784;133
+Jawa Timur;Medium;24;2;TikTok;Image;24/02/2023 20:30:00;Stargazer;8;2023;52;32,65;20;3516;145;1081;156
+Kalimantan Barat;Medium;25;2;Twitter;Image;25/02/2023 09:00:00;ProjectStruggle;8;2023;434;42,42;9;5258;812;3107;72
+Kalimantan Selatan;Low;25;2;Instagram;Image;25/02/2023 14:45:00;JoyfulReunion;8;2023;229;25,12;14;5444;916;4896;85
+Kalimantan Tengah;Medium;25;2;TikTok;Video;25/02/2023 18:20:00;LifeAcceptance;8;2023;151;55,44;18;7205;897;2226;186
+Kalimantan Timur;Low;26;2;Twitter;Image;26/02/2023 10:45:00;PuppyAdmirer;9;2023;33;12,09;10;9603;0;786;62
+Kalimantan Utara;Low;26;2;Instagram;Image;26/02/2023 07:30:00;MovieBuff2;9;2023;88;12,7;7;7326;446;4778;73
+Kepulauan Riau;Low;26;2;TikTok;Image;26/02/2023 15:00:00;CustomerWoes;9;2023;23;12,14;15;6916;380;3988;81
+Lampung;High;27;2;Twitter;Image;27/02/2023 09:30:00;CalmSoul;9;2023;373;202,77;9;5206;769;578;30
+Maluku;Medium;27;2;Instagram;Video;27/02/2023 14:20:00;ConfusedMind2;9;2023;72;48,98;14;6733;302;980;106
+Maluku Utara;Low;27;2;TikTok;Video;27/02/2023 18:45:00;BirthdayExcite;9;2023;459;22,18;18;3585;585;4951;54
+Nusa Tenggara Barat;Medium;28;2;Twitter;Image;28/02/2023 11:30:00;KindnessObserver;9;2023;463;58,92;11;1418;528;1828;86
+Nusa Tenggara Timur;Low;28;2;Instagram;Video;28/02/2023 16:00:00;FitAchiever;9;2023;219;12,69;16;8584;86;2601;25
+Papua;High;28;2;TikTok;Image;28/02/2023 19:45:00;ReflectiveSelf2;9;2023;72;101,32;19;7344;997;1064;9
+Papua Barat;Low;1;3;Twitter;Video;01/03/2023 10:45:00;DiversityLover;9;2023;66;16,35;10;3972;145;2049;124
+Papua Tengah;Medium;1;3;Instagram;Video;01/03/2023 13:30:00;BookwormJoy;9;2023;314;30,26;13;9374;441;2905;124
+Papua Pegunungan;Low;1;3;Twitter;Image;01/03/2023 17:45:00;WorkplaceWoes;9;2023;132;17,21;17;8443;326;2806;25
+Papua Selatan;Medium;2;3;TikTok;Image;02/03/2023 18:00:00;MindfulMe;9;2023;111;69,36;18;3625;872;1586;117
+Papua Barat Daya;Low;2;3;Instagram;Image;02/03/2023 13:15:00;ConfusedMind3;9;2023;255;22,41;13;1395;440;3722;139
+Riau;High;2;3;Twitter;Image;02/03/2023 16:45:00;RoadTripper2;9;2023;441;133,56;16;6546;536;876;193
+Sulawesi Barat;Medium;3;3;TikTok;Image;03/03/2023 11:30:00;KindnessPrevails2;9;2023;403;47,73;11;5504;877;2734;25
+Sulawesi Selatan;Low;3;3;Instagram;Image;03/03/2023 14:30:00;GoalAchiever;9;2023;367;29,6;14;9325;371;2919;126
+Sulawesi Tengah;Low;3;3;Twitter;Image;03/03/2023 12:00:00;ReflectiveSelf3;9;2023;497;29,37;12;9303;502;3905;148
+Sulawesi Tenggara;High;15;5;Twitter;Image;15/05/2010 15:30:00;NostalgiaFan;20;2010;414;112,94;15;3966;142;595;116
+Sulawesi Utara;Low;10;8;Instagram;Image;10/08/2021 21:15:00;SportsFanatic;33;2021;199;12,9;21;1547;281;4528;104
+Sumatera Barat;Low;20;6;TikTok;Video;20/06/2011 14:45:00;NatureLover2;26;2011;215;23,03;14;7023;659;3934;32
+Sumatera Selatan;Medium;12;2;Twitter;Image;12/02/2022 18:20:00;ZenMaster2;7;2022;118;47,52;18;6483;837;2319;147
+Sumatera Utara;Low;25;11;Instagram;Video;25/11/2012 10:00:00;ThankfulHeart;48;2012;120;12,98;10;4652;341;3752;26
+Aceh;Low;5;4;TikTok;Image;05/04/2013 19:30:00;OptimisticSoul;14;2013;458;24,28;19;1911;34;2047;5
+Bali;Low;14;9;Twitter;Video;14/09/2014 08:30:00;CommunityLeader;38;2014;8;5,39;8;2360;143;3433;34
+Bangka Belitung;Low;18;7;Instagram;Image;18/07/2015 14:20:00;CharitySupporter;29;2015;63;28,92;14;8207;582;2469;69
+Banten;Low;23;2;TikTok;Image;23/02/2016 19:45:00;LovingHeart;9;2016;425;14,49;19;3972;74;3850;59
+Bengkulu;Low;30;10;Twitter;Video;30/10/2017 11:30:00;ExcitementFan;44;2017;339;16,54;11;9035;102;3820;191
+DI Yogyakarta;Low;15;6;Instagram;Image;15/06/2018 16:00:00;ProjectEnthusiast;24;2018;63;5,91;16;8765;154;4521;50
+DKI Jakarta;High;28;3;TikTok;Image;28/03/2019 18:20:00;MilestoneAchiever;13;2019;232;102,71;18;4301;350;738;176
+Gorontalo;Low;11;11;Twitter;Video;11/11/2019 15:00:00;HistoryLover;46;2019;32;26,31;15;5630;784;3584;127
+Jambi;Low;2;4;Instagram;Video;02/04/2020 09:30:00;JoyfulReunion2;14;2020;194;18,16;9;2190;230;2516;33
+Jawa Barat;Low;19;6;TikTok;Image;19/06/2021 14:45:00;MusicEnthusiast;25;2021;428;26,15;14;5200;682;4313;18
+Jawa Tengah;Low;15;8;Twitter;Image;15/08/2010 10:00:00;SimpleJoys;34;2010;171;25,57;10;6177;587;3293;84
+Jawa Timur;Low;22;9;Instagram;Video;22/09/2011 19:30:00;BookLover3;39;2011;219;23,25;19;6402;631;3751;22
+Kalimantan Barat;Low;10;3;TikTok;Image;10/03/2012 08:30:00;SupportiveFriend;10;2012;86;24,78;8;3214;280;1808;82
+Kalimantan Selatan;High;5;12;Twitter;Video;05/12/2013 16:00:00;JourneyOptimist;49;2013;9;145,63;16;9641;675;526;82
+Kalimantan Tengah;Medium;20;7;Instagram;Image;20/07/2014 11:30:00;GrowthSeeker;30;2014;218;38,34;11;1429;574;2551;186
+Kalimantan Timur;Low;22;12;TikTok;Image;22/12/2015 14:20:00;HolidayHelper;52;2015;56;19,94;14;8794;566;3180;12
+Kalimantan Utara;Low;10;2;Twitter;Image;10/02/2016 19:45:00;WinterWarmth;7;2016;472;21,83;19;6799;166;3069;32
+Kepulauan Riau;Low;30;4;Instagram;Image;30/04/2017 11:30:00;AdventureAwaits;18;2017;4;23,72;11;2350;737;3137;3
+Lampung;Low;15;9;TikTok;Video;15/09/2018 16:00:00;CreativeSpirit;37;2018;79;16,13;16;9950;528;4643;142
+Maluku;Low;28;6;Twitter;Video;28/06/2019 18:20:00;FitnessAchiever;26;2019;167;25,91;18;5699;445;2651;75
+Maluku Utara;Low;11;11;Instagram;Video;11/11/2020 15:00:00;ArtAppreciator;46;2020;398;15,74;15;8542;336;4789;20
+Nusa Tenggara Barat;Low;2;3;TikTok;Image;02/03/2021 09:30:00;GoalAchiever2;10;2021;320;23,06;9;1035;355;3421;114
+Nusa Tenggara Timur;Medium;18;2;Twitter;Image;18/02/2012 14:30:00;UrbanExplorer2;7;2012;361;68,14;14;8275;720;1632;31
+Papua;Medium;5;11;Instagram;Video;05/11/2018 21:45:00;BirthdayJoy;45;2018;182;45,68;21;1033;882;2594;121
+Papua Barat;Medium;12;9;TikTok;Video;12/09/2015 13:20:00;HomeChef;37;2015;0;31,34;13;9140;970;3685;185
+Papua Tengah;Low;30;7;Twitter;Video;30/07/2016 18:10:00;MusicLover4;31;2016;34;16,55;18;7372;128;1783;133
+Papua Pegunungan;High;20;4;Instagram;Image;20/04/2013 10:30:00;CommunityLove;16;2013;115;89,84;10;7779;944;1378;179
+Papua Selatan;Medium;8;12;TikTok;Image;08/12/2017 19:15:00;EntrepreneurHope;49;2017;102;46,47;19;8204;755;1971;59
+Papua Barat Daya;High;3;6;Twitter;Video;03/06/2014 08:20:00;MentorEmpower;23;2014;336;82,28;8;1487;838;1591;135
+Riau;Medium;15;1;Instagram;Video;15/01/2019 14:50:00;KindnessInAction;3;2019;442;35,94;14;2383;905;4279;191
+Sulawesi Barat;Medium;25;12;TikTok;Image;25/12/2016 19:30:00;LoveExpress;53;2016;473;36,17;19;1544;810;3738;69
+Sulawesi Selatan;Medium;10;3;Twitter;Image;10/03/2018 09:45:00;TravelExcitement;10;2018;159;32,2;9;1470;750;3134;100
+Sulawesi Tengah;Medium;17;9;Instagram;Video;17/09/2020 16:30:00;ArtisticSpirit;38;2020;449;45,22;16;2354;196;1643;98
+Sulawesi Tenggara;Low;28;8;TikTok;Image;28/08/2011 18:45:00;HelperHeart;36;2011;152;29,51;18;4417;877;3690;60
+Sulawesi Utara;Low;1;11;Twitter;Video;01/11/2017 15:30:00;HistoryBuff;44;2017;10;8;15;2060;365;4828;11
+Sumatera Barat;High;15;6;Instagram;Video;15/06/2019 10:00:00;FitnessAchiever2;24;2019;477;71,02;10;2990;609;1684;110
+Sumatera Selatan;Low;3;4;TikTok;Video;03/04/2022 11:45:00;ProductLaunchJoy;15;2022;168;9,52;11;9483;139;4074;81
+Sumatera Utara;Low;12;11;Twitter;Image;12/11/2010 20:20:00;LovingEmbrace;46;2010;299;22,06;20;4135;103;2389;125
+Aceh;Medium;22;7;Instagram;Video;22/07/2011 18:30:00;SunsetWatcher2;30;2011;338;60,46;18;2365;783;1889;21
+Bali;Medium;30;3;TikTok;Video;30/03/2012 11:20:00;JoyfulHeart2;13;2012;121;33,92;11;7033;808;2904;56
+Bangka Belitung;High;5;10;Twitter;Image;05/10/2013 16:40:00;GrowthOptimist;40;2013;143;149,32;16;2876;920;805;139
+Banten;Medium;10;7;Instagram;Image;10/07/2014 13:15:00;SkillEmpower;28;2014;126;30,29;13;7798;205;1664;173
+Bengkulu;Low;18;12;TikTok;Video;18/12/2015 14:20:00;CharityVolunteer;51;2015;356;21,73;14;8841;308;3120;14
+DI Yogyakarta;High;10;2;Twitter;Video;10/02/2016 19:45:00;PetLove;7;2016;326;106,45;19;1349;695;1024;69
+DKI Jakarta;Medium;25;9;Instagram;Video;25/09/2017 11:30:00;FestivalFan;39;2017;255;64,13;11;1504;915;1837;8
+Gorontalo;Low;15;4;TikTok;Image;15/04/2018 16:00:00;DIYEnthusiast;16;2018;165;24,69;16;4724;122;1782;153
+Jambi;Low;28;11;Twitter;Image;28/11/2019 18:20:00;PuzzleMaster;48;2019;232;26,86;18;3247;576;3742;197
+Jawa Barat;Low;11;5;Instagram;Image;11/05/2020 15:00:00;NatureAdmirer;20;2020;414;27,77;15;7233;427;3464;121
+Jawa Tengah;Low;5;2;TikTok;Image;05/02/2021 09:30:00;ChildhoodJoy;6;2021;89;15,24;9;1298;93;1758;86
+Jawa Timur;High;10;3;Twitter;Image;10/03/2021 08:30:00;StrugglingSoul;11;2021;409;90,32;8;4767;604;1343;200
+Kalimantan Barat;Low;5;7;Instagram;Video;05/07/2022 15:45:00;MourningHeart;28;2022;351;27,41;15;9552;400;3451;195
+Kalimantan Selatan;Medium;18;11;TikTok;Image;18/11/2019 21:20:00;SolitarySoul;47;2019;285;39,08;21;4373;786;3012;106
+Kalimantan Tengah;Medium;12;8;Twitter;Video;12/08/2020 11:30:00;EnviousObserver;33;2020;155;61,28;11;2799;333;1046;153
+Kalimantan Timur;Low;22;5;Instagram;Image;22/05/2018 14:45:00;BitterHeart;21;2018;363;24,69;14;9738;613;4160;51
+Kalimantan Utara;High;30;1;TikTok;Image;30/01/2017 16:10:00;BlockedGoals;5;2017;444;131,05;16;4370;469;715;24
+Kepulauan Riau;High;28;9;Twitter;Image;28/09/2016 19:45:00;BoredMind;40;2016;424;104,34;19;1890;454;990;155
+Lampung;Low;15;4;Instagram;Image;15/04/2019 09:00:00;WorriedMind;16;2019;177;20,86;9;7839;479;3198;11
+Maluku;Low;3;12;TikTok;Image;03/12/2021 18:30:00;FearfulSoul;49;2021;169;8,93;18;4849;53;3774;115
+Maluku Utara;Medium;20;6;Twitter;Image;20/06/2020 14:20:00;OverwhelmedHeart;25;2020;236;36,09;14;6206;700;2671;28
+Nusa Tenggara Barat;High;7;11;Instagram;Image;07/11/2018 11:30:00;CovetousMind;45;2018;100;147,72;11;9612;569;526;108
+Nusa Tenggara Timur;High;25;8;TikTok;Video;25/08/2017 16:00:00;RemorsefulSoul;34;2017;453;126,69;16;6076;819;1124;152
+Papua;Low;11;2;Twitter;Video;11/02/2019 09:45:00;DisgustedHeart;7;2019;271;16,54;9;4539;375;4475;94
+Papua Barat;High;2;4;Instagram;Image;02/04/2016 20:20:00;HopelessHeart;14;2016;142;86,11;20;9602;893;1303;87
+Papua Tengah;Low;18;10;TikTok;Image;18/10/2015 15:30:00;TearfulSoul;43;2015;145;18,24;15;6750;215;2177;37
+Papua Pegunungan;Low;12;7;Twitter;Video;12/07/2019 18:10:00;IsolatedMind;28;2019;148;14,67;18;5971;370;4628;161
+Papua Selatan;Medium;3;6;Instagram;Image;03/06/2018 16:30:00;SelfDoubt;23;2018;314;44,61;16;5253;595;2466;191
+Papua Barat Daya;Low;15;1;TikTok;Image;15/01/2022 12:00:00;BrokenTrust;3;2022;294;28,51;12;5310;702;3616;35
+Riau;Medium;10;4;Twitter;Image;10/04/2017 14:45:00;ExplosiveMind;15;2017;110;33,91;14;3750;900;3191;72
+Sulawesi Barat;Low;28;11;Instagram;Image;28/11/2016 19:00:00;MundaneHeart;49;2016;498;20,97;19;6956;21;3219;156
+Sulawesi Selatan;Medium;5;9;TikTok;Image;05/09/2018 09:30:00;RestlessMind;36;2018;388;51,91;9;4827;395;1543;18
+Sulawesi Tengah;Medium;22;10;Twitter;Image;22/10/2021 18:30:00;FearfulJourney;43;2021;354;69,6;18;9069;923;1990;108
+Sulawesi Tenggara;Low;8;5;Instagram;Image;08/05/2019 14:20:00;OverwhelmedSoul;19;2019;243;25,51;14;4530;856;4692;98
+Sulawesi Utara;Low;20;3;TikTok;Image;20/03/2017 11:30:00;GreenEyedMonster;12;2017;133;6,88;11;1471;108;4358;59
+Sumatera Barat;High;15;12;Twitter;Video;15/12/2018 16:00:00;RegretfulMind;50;2018;403;102,53;16;8319;772;1186;41
+Sumatera Selatan;Low;1;7;Instagram;Video;01/07/2016 09:45:00;CorruptedHeart;27;2016;336;27,33;9;9608;477;3535;153
+Sumatera Utara;Low;20;8;TikTok;Video;20/08/2020 20:20:00;DrowningSoul;34;2020;90;16,9;20;6099;172;1692;24
+Aceh;Low;25;2;Twitter;Image;25/02/2021 15:30:00;StormyHeart;9;2021;393;26,11;15;2080;830;4982;78
+Bali;Low;12;9;Instagram;Image;12/09/2019 18:10:00;EchoingSoul;37;2019;56;15,45;18;3790;495;4104;83
+Bangka Belitung;Medium;5;8;TikTok;Image;05/08/2018 16:30:00;PoisonedMind;32;2018;377;44,83;16;8399;725;2507;22
+Banten;Medium;12;1;Twitter;Image;12/01/2017 12:00:00;UnforgivingSoul;2;2017;435;43,1;12;5603;734;2972;112
+Bengkulu;Low;5;4;Instagram;Image;05/04/2022 14:45:00;ThunderingMind;15;2022;72;10,09;14;5272;231;4844;186
+DI Yogyakarta;High;2;10;TikTok;Video;02/10/2021 19:00:00;StagnantHeart;40;2021;252;70,76;19;8075;382;1033;97
+DKI Jakarta;Low;15;4;Twitter;Image;15/04/2023 10:15:00;InquisitiveMind;15;2023;0;22,09;10;1656;676;3576;114
+Gorontalo;Medium;28;11;Instagram;Image;28/11/2022 17:30:00;ApatheticObserver;49;2022;333;50,54;17;7746;736;2493;191
+Jambi;Low;2;4;TikTok;Image;02/04/2020 09:45:00;SeekingClarity;14;2020;45;6,64;9;5645;237;4489;16
+Jawa Barat;Low;10;8;Twitter;Image;10/08/2021 14:00:00;EmotionallyDistant;33;2021;118;25,48;14;8356;346;2025;52
+Jawa Tengah;Low;18;6;Instagram;Image;18/06/2019 20:45:00;SunsetDreamer;25;2019;39;29,34;20;3598;849;3633;178
+Jawa Timur;Low;5;2;TikTok;Video;05/02/2018 15:15:00;MemoryLaneTraveler;6;2018;269;12,54;15;7491;194;3907;27
+Kalimantan Barat;Medium;30;5;Twitter;Video;30/05/2022 11:30:00;MixedFeelings;23;2022;421;32,37;11;9371;813;3976;53
+Kalimantan Selatan;Medium;10;1;Instagram;Image;10/01/2023 16:20:00;ZenLifestyle;2;2023;297;35,32;16;5785;953;3686;52
+Kalimantan Tengah;Low;18;9;TikTok;Image;18/09/2020 13:45:00;ResilientSpirit;38;2020;102;12,15;13;9616;228;3275;68
+Kalimantan Timur;Low;3;7;Twitter;Video;03/07/2021 19:00:00;NatureSoul;27;2021;124;21,07;19;5831;353;2297;7
+Kalimantan Utara;Medium;8;10;Instagram;Video;08/10/2022 08:15:00;EternalLearner;41;2022;369;42,44;8;2632;731;2698;45
+Kepulauan Riau;Medium;22;3;TikTok;Image;22/03/2023 16:30:00;AloofObserver;12;2023;431;32,43;16;6152;523;3244;98
+Lampung;Medium;15;5;Twitter;Image;15/05/2021 11:45:00;ThoughtExplorer;20;2021;264;54,02;11;3797;602;1718;62
+Maluku;Medium;28;12;Instagram;Video;28/12/2019 14:30:00;StoicSoul;52;2019;445;49,55;14;8934;7;1005;46
+Maluku Utara;Low;1;3;TikTok;Image;01/03/2020 19:00:00;DreamerInSilence;10;2020;42;10,7;19;3633;64;2402;151
+Nusa Tenggara Barat;High;10;7;Twitter;Image;10/07/2018 15:45:00;JournalKeeper;28;2018;288;175,23;15;3916;973;767;83
+Nusa Tenggara Timur;High;5;1;Instagram;Image;05/01/2022 10:30:00;ThreadWeaver;2;2022;453;111,4;10;1997;832;1202;54
+Papua;Low;20;8;TikTok;Image;20/08/2021 16:20:00;SelfLoveAdvocate;34;2021;319;26,09;16;3089;727;4117;28
+Papua Barat;Low;3;11;Twitter;Image;03/11/2019 13:45:00;DreamChaser;45;2019;321;17,32;13;5395;331;3771;1
+Papua Tengah;Low;12;4;Instagram;Image;12/04/2020 19:30:00;OceanSoul;16;2020;230;26,82;19;3689;261;1872;11
+Papua Pegunungan;Low;15;4;TikTok;Image;15/04/2022 08:45:00;HorizonExplorer;16;2022;298;15,38;8;8600;68;3562;182
+Papua Selatan;Medium;10;2;Twitter;Image;10/02/2023 17:00:00;NonchalantSpirit;6;2023;489;38,04;17;2837;971;3862;9
+Papua Barat Daya;High;5;8;Instagram;Image;05/08/2020 12:15:00;ComplexThinker;32;2020;422;123,01;12;3930;581;830;18
+Riau;Medium;1;12;TikTok;Image;01/12/2021 15:30:00;ShieldedHeart;49;2021;470;45,17;15;1976;716;2889;119
+Sulawesi Barat;High;25;3;Twitter;Image;25/03/2019 21:00:00;SymphonySoul;13;2019;142;92,85;21;6266;574;783;11
+Sulawesi Selatan;Low;18;6;Instagram;Image;18/06/2017 14:45:00;YearbookExplorer;25;2017;78;5,48;14;1673;78;4815;108
+Sulawesi Tengah;Low;8;7;TikTok;Video;08/07/2022 11:30:00;DecisiveDilemma;28;2022;409;29,7;11;4345;928;4767;79
+Sulawesi Tenggara;Low;15;5;Twitter;Video;15/05/2023 16:20:00;ImperfectHarmony;20;2023;168;18,67;16;5745;37;2159;198
+Sulawesi Utara;Medium;10;9;Instagram;Image;10/09/2021 14:45:00;VisionarySpirit;37;2021;303;42,6;14;3078;648;2439;88
+Sumatera Barat;Low;28;2;TikTok;Video;28/02/2020 18:30:00;ForestDreamer;9;2020;195;14,93;18;5069;407;4850;122
+Sumatera Selatan;Low;10;3;Instagram;Video;10/03/2023 16:30:00;SilentSpectator;10;2023;244;18,52;16;1138;227;3482;174
+Sumatera Utara;Medium;2;5;TikTok;Image;02/05/2021 11:45:00;MazeNavigator;19;2021;410;43,37;11;8186;877;3226;112
+Aceh;High;18;10;Twitter;Image;18/10/2019 14:30:00;ResilientFortress;42;2019;352;105,71;14;3507;740;1209;186
+Bali;Low;5;1;Instagram;Image;05/01/2020 20:00:00;CanvasDreamer;2;2020;323;18,18;20;8434;86;2729;87
+Bangka Belitung;Low;10;8;TikTok;Image;10/08/2018 15:45:00;DiaryExplorer;32;2018;243;26,63;15;7336;316;2670;152
+Banten;Low;15;1;Twitter;Image;15/01/2022 10:30:00;CrossroadsTraveler;3;2022;212;21,05;10;3311;660;4978;176
+Bengkulu;Low;20;7;Instagram;Image;20/07/2021 16:20:00;MosaicDreamer;30;2021;38;3,07;16;8726;36;4893;76
+DI Yogyakarta;Low;3;12;TikTok;Image;03/12/2019 13:45:00;PathfinderSpirit;49;2019;243;28,67;13;9070;962;4413;60
+DKI Jakarta;Low;12;4;Twitter;Image;12/04/2020 19:30:00;RaindropHarmony;16;2020;300;24,19;19;9412;504;3952;152
+Gorontalo;Low;8;5;Instagram;Image;08/05/2022 08:45:00;SeekerOfUnknowns;20;2022;59;19,35;8;5817;606;3715;54
+Jambi;Medium;22;2;TikTok;Image;22/02/2023 17:00:00;NonchalantWanderer;8;2023;152;32,31;17;1154;631;2863;142
+Jawa Barat;High;5;6;Twitter;Image;05/06/2020 12:15:00;ShadowedSeeker;23;2020;44;111,69;12;7288;838;915;140
+Jawa Tengah;High;30;11;Instagram;Image;30/11/2021 15:30:00;TurbulentShield;49;2021;424;72,88;15;8136;548;1401;49
+Jawa Timur;Medium;25;2;TikTok;Image;25/02/2019 21:00:00;WistfulPainter;9;2019;432;32,33;21;8422;225;2301;87
+Kalimantan Barat;Low;18;5;Twitter;Video;18/05/2017 14:45:00;TaleWeaver;20;2017;354;29,14;14;8686;555;3796;197
+Kalimantan Selatan;Low;5;8;Instagram;Image;05/08/2022 11:30:00;CrossroadsExplorer;32;2022;388;26,98;11;4019;25;2202;181
+Kalimantan Tengah;Low;15;6;TikTok;Image;15/06/2023 16:20:00;MosaicArtist;24;2023;426;12,79;16;4391;44;4653;125
+Kalimantan Timur;Low;10;10;Twitter;Video;10/10/2021 14:45:00;DreamSculptor;42;2021;79;29,54;14;6127;466;2268;125
+Kalimantan Utara;Low;12;5;Instagram;Image;12/05/2020 19:30:00;MoonlitSoul;20;2020;136;25,07;19;6664;969;4695;72
+Kepulauan Riau;Medium;1;12;TikTok;Image;01/12/2022 09:15:00;FearlessExplorer;49;2022;407;37,04;9;2149;206;1836;67
+Lampung;Medium;30;11;Instagram;Video;30/11/2021 15:30:00;TurbulentShield;49;2021;358;65,56;15;9008;627;1568;43
+Maluku;Low;12;7;Twitter;Image;12/07/2018 17:45:00;JoyfulDancer;28;2018;291;15,04;17;3737;14;2985;144
+Maluku Utara;Medium;5;9;TikTok;Image;05/09/2020 20:10:00;SereneBasker;36;2020;306;39,82;20;2313;1000;3682;160
+Nusa Tenggara Barat;Medium;18;4;Instagram;Video;18/04/2022 08:00:00;DreamPainter;17;2022;221;41,57;8;1954;726;2360;34
+Nusa Tenggara Timur;Medium;10;12;Twitter;Image;10/12/2019 12:20:00;OakAchiever;50;2019;169;35,41;12;8609;832;3262;154
+Papua;Low;28;2;TikTok;Image;28/02/2023 09:45:00;HeartGardener;9;2023;357;16,1;9;7097;192;4529;180
+Papua Barat;Low;3;4;Instagram;Video;03/04/2018 14:15:00;ThreadWeaver;14;2018;66;19,56;14;9817;544;3390;53
+Papua Tengah;Low;20;6;Twitter;Video;20/06/2022 10:30:00;CloudCaretaker;26;2022;134;9,1;10;6525;100;4277;155
+Papua Pegunungan;Medium;8;7;TikTok;Image;08/07/2020 18:00:00;RainDancer;28;2020;391;32,4;18;5088;950;4454;102
+Papua Selatan;Low;15;8;Instagram;Image;15/08/2021 11:10:00;SkyPainter;34;2021;187;16,33;11;4557;155;2994;147
+Papua Barat Daya;Low;25;10;Twitter;Image;25/10/2019 16:50:00;PhoenixExplorer;43;2019;250;22,4;16;9950;191;2598;141
+Riau;Low;5;10;TikTok;Video;05/10/2023 07:30:00;SunriseNavigator;40;2023;57;15,35;7;7623;143;2287;151
+Sulawesi Barat;Medium;15;2;Instagram;Image;15/02/2022 13:15:00;SandStrider;8;2022;175;57,01;13;4923;445;1149;35
+Sulawesi Selatan;Medium;8;5;Twitter;Image;08/05/2021 22:00:00;NightSerenader;19;2021;312;33,74;22;6596;763;3613;144
+Sulawesi Tengah;Low;29;11;Instagram;Image;29/11/2020 14:45:00;KnowledgeSeeker;49;2020;33;23,79;14;2843;610;2946;58
+Sulawesi Tenggara;High;14;9;TikTok;Video;14/09/2019 10:20:00;BreezeWaltzer;37;2019;466;132,73;10;9728;923;1100;71
+Sulawesi Utara;Low;12;3;Twitter;Video;12/03/2022 19:55:00;StarNavigator;11;2022;90;29,72;19;3062;190;1218;82
+Sumatera Barat;Low;30;3;Instagram;Image;30/03/2023 16:30:00;MeadowSprinter;13;2023;302;16,04;16;4542;341;4639;101
+Sumatera Selatan;Low;1;7;TikTok;Video;01/07/2021 12:10:00;RainNurturer;27;2021;459;23,2;12;6688;461;4301;78
+Sumatera Utara;Low;5;1;Twitter;Video;05/01/2020 08:45:00;PeakConqueror;2;2020;395;16,81;8;6939;257;4290;69
+Aceh;Medium;17;7;Instagram;Image;17/07/2022 06:15:00;DawnGardener;30;2022;403;53,27;6;4021;669;2168;83
+Bali;High;22;8;TikTok;Video;22/08/2018 17:20:00;CarnivalDreamer;34;2018;185;91,86;17;3846;997;1302;14
+Bangka Belitung;High;8;12;Twitter;Image;08/12/2021 14:30:00;SkyArtist;50;2021;37;120,91;14;2613;939;928;146
+Banten;Medium;27;4;Instagram;Image;27/04/2019 09:50:00;RiverNavigator;17;2019;110;37,11;9;5913;409;1517;44
+Bengkulu;Medium;3;9;TikTok;Video;03/09/2023 21:40:00;LanternWanderer;36;2023;178;41,55;21;2921;510;2060;168
+DI Yogyakarta;Medium;10;6;Twitter;Image;10/06/2020 10:05:00;DreamSoarer;24;2020;277;50,39;10;8356;501;1915;187
+DKI Jakarta;Low;1;4;Instagram;Image;01/04/2022 18:30:00;SunsetAdmirer;14;2022;356;28,36;18;8107;380;2708;32
+Gorontalo;Medium;15;1;TikTok;Image;15/01/2021 13:00:00;DanceStrider;3;2021;205;31;13;6736;903;4007;134
+Jambi;Medium;6;5;Twitter;Video;06/05/2023 07:20:00;WindWhisperer;18;2023;296;34,16;7;7266;781;3481;112
+Jawa Barat;Low;18;11;Instagram;Video;18/11/2019 15:15:00;JugglingArtist;47;2019;201;14,99;15;4870;421;4342;29
+Jawa Tengah;High;29;8;TikTok;Video;29/08/2020 20:45:00;StarStoryteller;35;2020;142;85,37;20;9562;984;1497;152
+Jawa Timur;Medium;30;10;Twitter;Image;30/10/2022 11:40:00;WaveNavigator;45;2022;353;49,85;11;6399;852;2746;164
+Kalimantan Barat;Low;1;7;Instagram;Image;01/07/2021 12:10:00;RainNurturer;27;2021;35;11,38;12;1114;105;2407;134
+Kalimantan Selatan;Low;5;1;Twitter;Image;05/01/2020 08:45:00;PeakConqueror;2;2020;51;5,06;8;9177;136;4981;65
+Kalimantan Tengah;Medium;17;7;Instagram;Image;17/07/2022 06:15:00;DawnGardener;30;2022;75;31,56;6;6655;846;3096;56
+Kalimantan Timur;Low;22;8;TikTok;Image;22/08/2018 17:20:00;CarnivalDreamer;34;2018;184;17,95;17;9114;454;4423;156
+Kalimantan Utara;Low;8;12;Twitter;Image;08/12/2021 14:30:00;SkyArtist;50;2021;436;24,93;14;4206;35;2519;157
+Kepulauan Riau;Medium;27;4;Instagram;Video;27/04/2019 09:50:00;RiverNavigator;17;2019;99;54,64;9;4588;448;1292;159
+Lampung;Low;3;9;TikTok;Image;03/09/2023 21:40:00;LanternWanderer;36;2023;51;16,03;21;2322;620;4890;113
+Maluku;Low;10;6;Twitter;Image;10/06/2020 10:05:00;DreamSoarer;24;2020;491;23,76;10;2762;469;4727;163
+Maluku Utara;Low;1;4;Instagram;Image;01/04/2022 18:30:00;SunsetAdmirer;14;2022;466;28,48;18;5481;627;4210;106
+Nusa Tenggara Barat;Low;15;1;TikTok;Image;15/01/2021 13:00:00;DanceStrider;3;2021;368;14,01;13;1112;166;4547;103
+Nusa Tenggara Timur;Low;6;5;Twitter;Video;06/05/2023 07:20:00;WindWhisperer;18;2023;173;15;7;6114;353;3867;54
+Papua;High;18;11;Instagram;Video;18/11/2019 15:15:00;JugglingArtist;47;2019;186;87,08;15;2596;758;1122;33
+Papua Barat;Low;29;8;TikTok;Image;29/08/2020 20:45:00;StarStoryteller;35;2020;51;22,16;20;4738;467;2509;38
+Papua Tengah;Low;30;10;Twitter;Image;30/10/2022 11:40:00;WaveNavigator;45;2022;57;12,56;11;4115;421;3956;19
+Papua Pegunungan;Medium;1;7;Instagram;Image;01/07/2021 12:10:00;RainNurturer;27;2021;441;35,44;12;5121;436;2630;55
+Papua Selatan;Low;5;1;Twitter;Image;05/01/2020 08:45:00;PeakConqueror;2;2020;328;9,62;8;6884;93;4782;39
+Papua Barat Daya;High;17;7;Instagram;Image;17/07/2022 06:15:00;DawnGardener;30;2022;216;85,44;6;4272;966;1614;197
+Riau;Medium;22;8;TikTok;Image;22/08/2018 17:20:00;CarnivalDreamer;34;2018;483;54;17;7779;713;2324;59
+Sulawesi Barat;High;15;9;Instagram;Video;15/09/2021 16:00:00;ShatteredHeart;38;2021;134;103,82;16;9077;663;889;126
+Sulawesi Selatan;Low;8;3;TikTok;Image;08/03/2019 14:20:00;VenomousSoul;10;2019;123;17,71;14;6527;121;1750;66
+Sulawesi Tengah;Medium;20;7;Twitter;Image;20/07/2017 11:45:00;DesertWanderer;29;2017;387;42,3;11;7379;636;2520;43
+Sulawesi Tenggara;Low;2;11;Instagram;Image;02/11/2020 19:30:00;ColdEmbrace;45;2020;477;16,49;19;5759;279;4972;64
+Sulawesi Utara;Low;12;5;TikTok;Video;12/05/2022 02:00:00;NightPrisoner;20;2022;21;6,52;2;4406;58;3176;128
+Sumatera Barat;Medium;8;4;Twitter;Image;08/04/2023 13:15:00;TightropeWalker;14;2023;109;33,68;13;8278;813;3144;137
+Sumatera Selatan;High;25;6;Instagram;Video;25/06/2021 17:50:00;AtlasBearer;26;2021;375;99,67;17;8432;522;922;22
+Sumatera Utara;Low;30;8;TikTok;Image;30/08/2019 10:10:00;GreenMonster;35;2019;166;22,15;10;4536;379;2479;4
+Aceh;Medium;3;8;Twitter;Video;03/08/2022 15:30:00;StormSurvivor;32;2022;244;45,98;15;2197;792;2560;141
+Bali;High;17;12;Instagram;Image;17/12/2020 09:20:00;PuzzleComposer;51;2020;495;101,35;9;9733;904;1560;182
+Bangka Belitung;Medium;28;2;TikTok;Image;28/02/2021 22:45:00;GildedHeartache;10;2021;433;38,1;22;6373;951;4139;193
+Banten;Medium;10;5;Twitter;Image;10/05/2018 14:00:00;IndifferentFort;19;2018;473;31,81;14;6240;62;2009;104
+Bengkulu;Low;7;1;Instagram;Image;07/01/2022 11:10:00;DreamMosaic;2;2022;188;17,23;11;1442;178;2925;138
+DI Yogyakarta;Medium;19;9;TikTok;Image;19/09/2019 03:30:00;NocturnalEcho;38;2019;217;30,53;3;7035;771;3466;70
+DKI Jakarta;Medium;14;7;Twitter;Video;14/07/2023 23:00:00;DarkWhispers;28;2023;257;30,87;23;5763;803;3829;122
+Gorontalo;Low;5;4;Instagram;Image;05/04/2020 16:20:00;LingeringTaste;15;2020;220;27,62;16;4162;517;2839;47
+Jambi;Low;29;11;TikTok;Image;29/11/2021 08:45:00;TempestSurvivor;49;2021;259;11,86;8;5947;171;4501;104
+Jawa Barat;Medium;12;12;Twitter;Image;12/12/2019 17:00:00;VenomousHeart;50;2019;67;30,71;17;4886;498;2042;62
+Jawa Tengah;High;20;5;Instagram;Video;20/05/2022 14:50:00;FragileTrust;21;2022;429;87,59;14;8489;935;1717;140
+Jawa Timur;Low;3;9;TikTok;Video;03/09/2020 12:15:00;BrokenThreads;36;2020;108;17,16;12;5508;245;2646;101
+Kalimantan Barat;Medium;10;2;Twitter;Image;10/02/2021 19:30:00;SuccessPill;7;2021;239;56,98;19;3766;976;2443;177
+Kalimantan Selatan;Low;18;8;Instagram;Video;18/08/2018 14:40:00;CurtainShield;33;2018;289;22,16;14;5166;385;3805;169
+Kalimantan Tengah;Low;28;2;TikTok;Video;28/02/2022 21:00:00;FoggyLabyrinth;10;2022;496;27,81;21;5073;826;4941;52
+Kalimantan Timur;Medium;15;10;Twitter;Image;15/10/2019 10:30:00;IcyResentment;42;2019;344;44,84;10;8039;966;3160;107
+Kalimantan Utara;Low;1;12;Instagram;Video;01/12/2017 18:50:00;SolitaryMoon;48;2017;345;8,54;18;8415;30;4611;19
+Kepulauan Riau;Low;18;4;TikTok;Image;18/04/2020 16:15:00;VanishedSunset;16;2020;200;14,46;16;4298;343;3790;5
+Lampung;Low;7;1;Twitter;Image;07/01/2023 03:30:00;NightPrisoner;1;2023;380;16,97;3;6152;67;3236;102
+Maluku;Medium;10;6;Instagram;Image;10/06/2021 10:00:00;WindWhisperer;24;2021;48;59,22;10;5112;550;1236;134
+Maluku Utara;Low;22;2;TikTok;Image;22/02/2020 15:20:00;MazeExplorer;8;2020;473;27,3;15;2781;543;4194;129
+Nusa Tenggara Barat;Low;17;3;Twitter;Video;17/03/2018 14:45:00;WoundedGarden;11;2018;325;11,82;14;2785;188;4409;8
+Nusa Tenggara Timur;Low;28;10;Instagram;Image;28/10/2022 11:15:00;RuinedHeart;44;2022;240;22,5;11;4427;351;2813;42
+Papua;High;1;11;TikTok;Video;01/11/2020 12:30:00;KnotUntangler;45;2020;445;84,97;12;2295;770;1537;91
+Papua Barat;Medium;15;1;Twitter;Image;15/01/2021 22:10:00;ElusiveKeys;3;2021;204;52,09;22;4977;999;2446;71
+Papua Tengah;Low;18;8;Instagram;Image;18/08/2018 14:00:00;IndifferentFort;33;2018;64;4,42;14;8858;100;4482;34
+Papua Pegunungan;Low;7;1;Twitter;Image;07/01/2022 11:10:00;DreamMosaic;2;2022;128;15,19;11;1692;318;4003;162
+Papua Selatan;Low;19;9;TikTok;Image;19/09/2019 03:30:00;NocturnalEcho;38;2019;70;13,03;3;5259;48;1734;108
+Papua Barat Daya;Low;3;4;Instagram;Video;03/04/2022 06:15:00;NatureAdmirer;15;2022;71;20,62;6;5756;696;4514;164
+Riau;Low;12;10;Twitter;Image;12/10/2023 10:30:00;GoalPursuer;41;2023;234;26,72;10;3083;751;4232;146
+Sulawesi Barat;High;28;6;TikTok;Video;28/06/2019 19:00:00;MemoryLane;26;2019;277;139,37;19;3101;490;635;118
+Sulawesi Selatan;Medium;15;9;Instagram;Video;15/09/2020 14:45:00;CultureEnthusiast;38;2020;424;52,15;14;3323;695;2303;82
+Sulawesi Tengah;Low;8;11;Twitter;Video;08/11/2017 21:20:00;RainWatcher;45;2017;186;23,95;21;5790;501;2973;25
+Sulawesi Tenggara;Medium;20;5;TikTok;Video;20/05/2021 17:30:00;PersonalJourney;21;2021;471;31,99;17;7637;120;2035;60
+Sulawesi Utara;High;10;1;Instagram;Image;10/01/2023 12:00:00;VacationDreamer;2;2023;1;107,48;12;8447;824;856;95
+Sumatera Barat;High;5;12;Twitter;Image;05/12/2018 08:45:00;LifeLearner;49;2018;131;211,15;8;3778;844;556;199
+Sumatera Selatan;Low;15;3;Instagram;Image;15/03/2020 18:30:00;FarewellSender;12;2020;435;15,73;18;1974;73;3273;7
+Sumatera Utara;Low;22;8;TikTok;Image;22/08/2016 15:10:00;HistoryExplorer;35;2016;477;29,62;15;1302;899;4669;7
+Aceh;Medium;20;8;Instagram;Video;20/08/2019 16:00:00;CraftEnthusiast;34;2019;15;41,4;16;3831;477;1210;9
+Bali;Low;8;12;Twitter;Image;08/12/2021 19:30:00;WinterLover;50;2021;495;19,9;19;4194;398;4935;89
+Bangka Belitung;Medium;10;6;Instagram;Image;10/06/2020 20:45:00;SunsetWatcher;24;2020;11;48,92;20;5627;590;1523;144
+Banten;Medium;28;2;TikTok;Video;28/02/2022 07:15:00;FitnessJunkie;10;2022;288;45,15;7;5966;537;2093;120
+Bengkulu;Low;15;4;Twitter;Image;15/04/2017 08:00:00;CoffeeLover;15;2017;103;19,52;8;6212;278;2695;145
+DI Yogyakarta;Medium;5;9;Instagram;Image;05/09/2018 14:20:00;HikingExplorer;36;2018;355;36,2;14;2552;800;3619;155
+DKI Jakarta;Medium;22;10;TikTok;Image;22/10/2022 12:45:00;KittyObserver;43;2022;256;30,31;12;3379;182;1831;117
+Gorontalo;Low;2;7;Twitter;Image;02/07/2016 23:30:00;Stargazer;27;2016;236;27,97;23;3868;954;4759;141
+Jambi;Low;18;11;Instagram;Image;18/11/2020 17:10:00;FriendshipRenewal;47;2020;50;19,1;17;4216;237;2283;149
+Jawa Barat;Low;5;3;TikTok;Video;05/03/2023 15:00:00;CelebrationPlanner;10;2023;28;11,61;15;1613;154;1611;5
+Jawa Tengah;Medium;1;12;Twitter;Video;01/12/2015 11:30:00;DIYEnthusiast;49;2015;282;58,47;11;9679;801;2148;173
+Jawa Timur;Low;10;9;Instagram;Video;10/09/2021 09:45:00;CommunityHelper;37;2021;1;27,51;9;1427;641;2708;103
+Kalimantan Barat;Low;12;5;TikTok;Video;12/05/2018 14:20:00;GardenEnthusiast;19;2018;288;25,93;14;7658;496;3749;188
+Kalimantan Selatan;Medium;25;7;Twitter;Video;25/07/2022 10:00:00;Wanderlust;31;2022;456;61,33;10;2719;158;1306;187
+Kalimantan Tengah;High;8;3;Instagram;Video;08/03/2019 18:30:00;GrowthSeeker;10;2019;266;72,57;18;9985;725;1531;120
+Kalimantan Timur;Low;28;1;TikTok;Image;28/01/2017 21:15:00;ChildhoodMemories;4;2017;358;25,67;21;9950;192;2852;182
+Kalimantan Utara;Medium;14;11;Twitter;Video;14/11/2016 13:45:00;CultureExplorer;47;2016;250;34,67;13;5363;755;3470;198
+Kepulauan Riau;Low;2;4;Instagram;Image;02/04/2020 17:30:00;PublicSpeaker;14;2020;313;18,27;17;5726;243;3300;47
+Lampung;Low;15;1;TikTok;Image;15/01/2023 19:00:00;FamilyCelebration;3;2023;410;28,21;19;7027;172;2595;150
+Maluku;Low;7;8;Twitter;Image;07/08/2018 12:15:00;LifelongLearner;32;2018;38;6,66;12;3578;158;4414;98
+Maluku Utara;Low;18;10;Instagram;Image;18/10/2019 16:45:00;CityExplorer;42;2019;485;22,21;16;4520;481;4588;53
+Nusa Tenggara Barat;Low;30;6;TikTok;Image;30/06/2022 07:00:00;FitnessAchiever;27;2022;380;29,53;7;2166;932;4588;43
+Nusa Tenggara Timur;Low;12;6;Twitter;Image;12/06/2017 18:20:00;RainbowChaser;24;2017;109;13,82;18;6231;296;4220;178
+Papua;Medium;5;7;Instagram;Image;05/07/2021 09:30:00;FutureOptimist;28;2021;44;62,78;9;7956;747;1494;147
+Papua Barat;Low;15;4;TikTok;Image;15/04/2016 14:50:00;CareerAchiever;16;2016;347;19,86;14;2151;378;4486;166
+Papua Tengah;Low;10;2;Twitter;Image;10/02/2020 11:15:00;SunnyDayEnthusiast;7;2020;350;21,06;11;9135;343;3362;15
+Papua Pegunungan;Low;22;9;Instagram;Image;22/09/2018 16:30:00;Bookworm;38;2018;9;19,17;16;1314;412;2248;10
+Papua Selatan;High;8;11;TikTok;Image;08/11/2015 10:00:00;ArchaeologyEnthusiast;46;2015;110;75,62;10;5639;395;771;78
+Papua Barat Daya;Medium;10;8;Instagram;Image;10/08/2022 22:00:00;NightSkyObserver;33;2022;38;46,26;22;3797;564;1509;96
+Riau;Medium;5;4;Twitter;Image;05/04/2019 17:30:00;ArtConnoisseur;14;2019;222;58,45;17;9900;213;929;108
+Sulawesi Barat;High;15;12;TikTok;Image;15/12/2020 15:45:00;PlayfulParent;51;2020;359;104,54;15;9322;514;1013;186
+Sulawesi Selatan;Medium;20;10;Instagram;Image;20/10/2017 08:15:00;ZenSeeker;42;2017;187;43,42;8;4494;40;859;146
+Sulawesi Tengah;Medium;28;2;Twitter;Image;28/02/2021 13:00:00;SkyDreamer;10;2021;189;59,98;13;4526;851;1869;81
+Sulawesi Tenggara;Low;12;6;TikTok;Video;12/06/2018 20:30:00;DanceEnthusiast;24;2018;214;14,63;20;7094;110;2940;106
+Sulawesi Utara;Medium;8;3;Instagram;Image;08/03/2016 14:20:00;FairyTaleExplorer;11;2016;495;52,04;14;2843;246;1518;49
+Sumatera Barat;High;18;4;Twitter;Image;18/04/2023 17:10:00;RuinsExplorer;16;2023;310;147,33;17;9782;879;824;25
+Sumatera Selatan;Low;25;7;TikTok;Image;25/07/2020 12:45:00;RollercoasterFan;30;2020;26;14,07;12;8301;370;3425;86
+Sumatera Utara;Medium;30;11;Instagram;Image;30/11/2019 19:30:00;MusicHarmonist;48;2019;456;65,32;19;4481;184;1214;153
+Aceh;Medium;1;9;Twitter;Image;01/09/2015 16:00:00;StudioArtist;36;2015;369;54,15;16;8735;989;2761;137
+Bali;Low;5;5;TikTok;Video;05/05/2022 10:15:00;SpringEnthusiast;19;2022;191;23,61;10;4006;609;3795;96
+Bangka Belitung;Low;8;7;Instagram;Image;08/07/2018 23:00:00;CosmosExplorer;28;2018;405;26,24;23;6517;324;3479;184
+Banten;Medium;20;9;Twitter;Image;20/09/2021 14:30:00;SeaBreezeLover;39;2021;431;39,62;14;9176;606;3064;177
+Bengkulu;Low;15;11;TikTok;Video;15/11/2016 11:45:00;ForestDreamer;47;2016;178;7,16;11;6239;18;3099;26
+DI Yogyakarta;Medium;12;1;Instagram;Image;12/01/2020 18:00:00;WinterWarmth;3;2020;270;68,84;18;6881;795;1730;126
+DKI Jakarta;Low;28;12;TikTok;Image;28/12/2017 19:15:00;FamilyGatherer;52;2017;93;25,65;19;1609;333;1836;45
+Gorontalo;Medium;2;3;Twitter;Video;02/03/2019 20:20:00;CulinaryExplorer;9;2019;357;40,71;20;6228;886;3441;158
+Jambi;Low;8;6;Instagram;Video;08/06/2022 15:30:00;PuzzleSolver;24;2022;372;23,01;15;3844;407;3924;124
+Jawa Barat;Low;18;8;TikTok;Image;18/08/2018 14:45:00;CathedralVisitor;33;2018;55;25,16;14;9952;550;3184;196
+Jawa Tengah;Low;10;8;Instagram;Video;10/08/2022 22:00:00;NightSkyObserver;33;2022;370;23,09;22;6083;615;4798;123
+Jawa Timur;High;5;4;Twitter;Video;05/04/2019 17:30:00;MusicLover;14;2019;462;152,29;17;9866;793;872;73
+Kalimantan Barat;Medium;15;12;TikTok;Video;15/12/2020 15:45:00;CarnivalGoer;51;2020;435;34,08;15;2169;751;3612;45
+Kalimantan Selatan;Low;20;10;Instagram;Image;20/10/2017 08:15:00;MindfulExplorer;42;2017;449;24,09;8;7075;590;4911;144
+Kalimantan Tengah;Low;28;2;Twitter;Image;28/02/2021 13:00:00;CoastalExplorer;10;2021;233;8,5;13;8347;142;4762;30
+Kalimantan Timur;Medium;12;6;TikTok;Video;12/06/2018 20:30:00;MasqueradeAttendee;24;2018;61;37,78;20;5725;615;1837;18
+Kalimantan Utara;Medium;8;3;Instagram;Video;08/03/2016 14:20:00;FairyTaleAdventurer;11;2016;199;33,63;14;6975;97;1222;115
+Kepulauan Riau;Medium;18;4;Twitter;Video;18/04/2023 17:10:00;RuinsExplorer;16;2023;209;36,48;17;9943;882;3344;129
+Lampung;Low;25;7;TikTok;Image;25/07/2020 12:45:00;ThrillSeeker;30;2020;278;24,31;12;9871;796;4542;30
+Maluku;Low;30;11;Instagram;Video;30/11/2019 19:30:00;MusicHarmonist;48;2019;7;26,25;19;8028;617;2575;52
+Maluku Utara;Medium;1;9;Twitter;Image;01/09/2015 16:00:00;StudioArtist;36;2015;238;51,8;16;2457;265;1222;130
+Nusa Tenggara Barat;Low;5;5;TikTok;Image;05/05/2022 10:15:00;SpringEnthusiast;19;2022;78;12,49;10;5461;147;1802;0
+Nusa Tenggara Timur;Low;8;7;Instagram;Image;08/07/2018 23:00:00;CosmosExplorer;28;2018;121;7,47;23;8964;83;4513;133
+Papua;High;20;9;Twitter;Image;20/09/2021 14:30:00;SeaBreezeLover;39;2021;239;235,83;14;9646;880;547;171
+Papua Barat;Medium;15;11;TikTok;Image;15/11/2016 11:45:00;ForestDreamer;47;2016;168;36,14;11;5721;144;1259;143
+Papua Tengah;Medium;12;1;Instagram;Image;12/01/2020 18:00:00;WinterWarmth;3;2020;297;30,94;18;8957;306;2107;49
+Papua Pegunungan;High;28;12;TikTok;Image;28/12/2017 19:15:00;FamilyGatherer;52;2017;146;164,05;19;4019;593;548;160
+Papua Selatan;Medium;2;3;Twitter;Image;02/03/2019 20:20:00;CulinaryExplorer;9;2019;279;37,53;20;5998;969;3736;154
+Papua Barat Daya;Low;8;6;Instagram;Image;08/06/2022 15:30:00;PuzzleSolver;24;2022;399;24,07;15;5664;392;3802;124
+Riau;Medium;18;8;TikTok;Image;18/08/2018 14:45:00;CathedralVisitor;33;2018;362;34,64;14;3910;539;2670;24
+Sulawesi Barat;Medium;8;11;Instagram;Video;08/11/2015 10:00:00;ArchaeologyEnthusiast;46;2015;44;63,56;10;3543;940;1696;94
+Sulawesi Selatan;Low;2;12;Twitter;Image;02/12/2020 17:30:00;SnowfallEnthusiast;49;2020;9;21,16;17;8491;704;3857;103
+Sulawesi Tengah;High;10;6;Instagram;Image;10/06/2017 12:15:00;BreadLover;23;2017;355;164,13;12;8988;821;761;73
+Sulawesi Tenggara;Low;15;4;TikTok;Video;15/04/2021 14:20:00;NatureResilient;16;2021;405;15,15;14;7032;138;4212;95
+Sulawesi Utara;High;28;9;Twitter;Image;28/09/2019 19:45:00;Bookworm;39;2019;478;286,31;19;5252;996;577;178
+Sumatera Barat;Low;5;12;Instagram;Video;05/12/2016 21:00:00;FamilyHistorian;50;2016;190;10,89;21;2493;263;4574;45
+Sumatera Selatan;Low;10;2;TikTok;Image;10/02/2018 23:30:00;NightSkyWatcher;6;2018;171;17,49;23;1045;312;3866;193
+Sumatera Utara;Medium;15;2;Twitter;Image;15/02/2023 08:30:00;TeaEnthusiast;7;2023;442;44,37;8;4008;871;3248;128
+Aceh;Medium;22;8;Instagram;Video;22/08/2015 15:00:00;MarketExplorer;34;2015;71;43,95;15;3144;565;1727;123
+Bali;Low;20;11;TikTok;Image;20/11/2020 18:45:00;LakesideRetreater;47;2020;188;12,62;18;8684;97;2663;51
+Bangka Belitung;Low;5;8;Instagram;Video;05/08/2019 21:00:00;LostInLove;32;2019;95;22,21;21;9243;908;4930;92
+Banten;Low;12;2;Twitter;Image;12/02/2021 16:45:00;SolitudeSeeker;7;2021;205;28,09;16;6323;140;1666;123
+Bengkulu;High;28;11;TikTok;Video;28/11/2020 14:20:00;FriendshipsEnd;48;2020;86;117,62;14;9624;573;664;122
+DI Yogyakarta;Medium;15;5;Instagram;Image;15/05/2016 22:30:00;LostInDarkness;21;2016;291;69,93;22;4262;715;1460;15
+DKI Jakarta;Medium;10;9;Twitter;Image;10/09/2018 13:15:00;BrokenTrust;37;2018;160;30,84;13;8651;381;2370;190
+Gorontalo;Medium;20;3;TikTok;Image;20/03/2022 19:30:00;SilentSufferer;13;2022;100;38,79;19;6332;928;3145;192
+Jambi;Low;18;7;Instagram;Image;18/07/2017 17:45:00;StormyFeelings;29;2017;22;27,94;17;7660;194;1045;76
+Jawa Barat;Low;15;12;Twitter;Image;15/12/2018 10:00:00;LingeringGhost;50;2018;300;19,18;10;3346;528;4980;127
+Jawa Tengah;High;28;6;TikTok;Image;28/06/2015 21:15:00;EchoesOfLoss;27;2015;468;144,46;21;4379;507;803;185
+Jawa Timur;Low;2;4;Instagram;Image;02/04/2020 14:20:00;WinterOfEmotions;14;2020;8;18,79;14;3431;126;1469;142
+Kalimantan Barat;Medium;8;10;Twitter;Image;08/10/2019 18:30:00;ShatteredHopes;41;2019;456;51,9;18;8392;908;2657;15
+Kalimantan Selatan;Low;22;11;TikTok;Video;22/11/2016 09:45:00;AbyssOfTime;48;2016;98;23,87;9;5854;20;620;30
+Kalimantan Tengah;High;18;8;Instagram;Image;18/08/2022 22:00:00;SolitaryDescent;34;2022;212;71,32;22;7842;951;1653;16
+Kalimantan Timur;Low;12;3;Twitter;Video;12/03/2017 23:30:00;SerenadeOfSolitude;11;2017;296;17,24;23;3393;420;4792;110
+Kalimantan Utara;Low;15;12;TikTok;Image;15/12/2015 16:15:00;PoisonedHeart;51;2015;245;21,06;16;9983;324;3619;193
+Kepulauan Riau;Low;5;9;Instagram;Image;05/09/2021 13:30:00;WearySoulCrushed;37;2021;161;13,95;13;2285;406;4487;59
+Lampung;Low;22;5;Twitter;Video;22/05/2018 20:45:00;StringsOfSorrow;21;2018;236;29,41;20;7086;839;3988;98
+Maluku;Low;10;7;TikTok;Image;10/07/2016 18:20:00;SoulInShadow;29;2016;441;14,95;18;2119;187;4670;70
+Maluku Utara;Medium;30;4;Instagram;Video;30/04/2019 14:00:00;WhisperedDespair;18;2019;202;38,94;14;6380;176;1212;94
+Nusa Tenggara Barat;Low;8;1;Twitter;Image;08/01/2022 11:30:00;DreamsInWind;2;2022;14;11,29;11;7212;269;3490;111
+Nusa Tenggara Timur;Medium;10;9;Twitter;Video;10/09/2017 19:15:00;DreamEchoes;37;2017;97;30,4;19;2670;429;2270;164
+Papua;Low;18;4;Instagram;Video;18/04/2022 11:30:00;RemorseWalker;17;2022;260;27,78;11;6029;456;3171;165
+Papua Barat;Medium;5;12;TikTok;Video;05/12/2018 21:45:00;JoyLabyrinth;49;2018;68;32,16;21;4553;875;3327;127
+Papua Tengah;Medium;28;6;Twitter;Video;28/06/2016 14:20:00;SolitudeSeas;27;2016;365;48,13;14;2831;898;2724;48
+Papua Pegunungan;Low;22;10;Instagram;Video;22/10/2019 17:00:00;PalateStainer;43;2019;137;23,96;17;9932;614;3644;122
+Papua Selatan;Low;15;3;TikTok;Image;15/03/2021 22:45:00;HopeRuins;12;2021;1;11,96;22;7582;283;3930;186
+Papua Barat Daya;Medium;10;8;Twitter;Image;10/08/2017 19:30:00;OceanSinker;32;2017;155;33,73;19;6013;707;3063;171
+Riau;Low;28;1;Instagram;Video;28/01/2023 14:30:00;InkJournalist;4;2023;203;23,52;14;4832;855;4966;110
+Sulawesi Barat;High;12;12;TikTok;Image;12/12/2016 10:00:00;TrustWasteland;51;2016;463;115,59;10;2701;951;1244;24
+Sulawesi Selatan;Medium;18;7;Twitter;Image;18/07/2020 15:15:00;DreamTightrope;29;2020;299;63,4;15;3282;591;1407;2
+Sulawesi Tengah;Low;20;5;Instagram;Image;20/05/2022 20:30:00;EchoedLaughter;21;2022;88;26,98;20;8988;420;2187;82
+Sulawesi Tenggara;High;8;11;Twitter;Video;08/11/2019 14:45:00;PossibilityGhost;45;2019;452;148,37;14;7065;482;645;23
+Sulawesi Utara;Low;28;3;TikTok;Video;28/03/2017 22:00:00;EndlessLabyrinth;13;2017;379;28,37;22;6948;472;3479;136
+Sumatera Barat;High;15;9;Instagram;Video;15/09/2020 18:15:00;RiverOfSorrow;38;2020;393;100,59;18;9942;408;847;51
+Sumatera Selatan;High;10;6;Twitter;Image;10/06/2018 13:30:00;DreamGardener;24;2018;497;115,02;13;1228;119;699;188
+Sumatera Utara;Medium;22;12;TikTok;Image;22/12/2016 21:45:00;CurrencyOfTears;52;2016;138;33,2;21;2010;738;2795;52
+Aceh;Low;5;1;Instagram;Image;05/01/2021 16:20:00;MazeWanderer;2;2021;72;15,18;16;3994;163;2035;74
+Bali;Low;18;4;Twitter;Image;18/04/2019 11:00:00;StormSeeker;16;2019;217;23,92;11;4603;210;2191;97
+Bangka Belitung;High;28;8;TikTok;Video;28/08/2017 19:30:00;TapestrySorrow;35;2017;170;70,7;19;2090;798;1464;67
+Banten;High;10;2;Instagram;Video;10/02/2023 14:30:00;WitheredRose;6;2023;273;104,72;14;5746;616;1038;198
+Bengkulu;Low;10;7;Instagram;Video;10/07/2022 22:15:00;LoveSongEcho;29;2022;68;23,78;22;8991;891;4597;134
+DI Yogyakarta;Medium;15;5;Twitter;Image;15/05/2019 21:30:00;MoonlitMemories;20;2019;370;31,51;21;8128;430;2663;39
+DKI Jakarta;Medium;28;11;TikTok;Video;28/11/2018 14:00:00;SymphonyOfTears;48;2018;416;37,79;14;3765;383;2543;162
+Gorontalo;Medium;2;3;Instagram;Image;02/03/2021 17:45:00;VenomousGarden;10;2021;36;30,68;17;3777;691;2575;63
+Jambi;Low;18;10;Twitter;Image;18/10/2016 19:30:00;QuicksandFighter;43;2016;306;24,27;19;1954;765;4412;0
+Jawa Barat;Medium;15;8;TikTok;Image;15/08/2020 12:30:00;DreamCemetery;33;2020;331;68,08;12;9335;426;1372;177
+Jawa Tengah;Low;28;4;Instagram;Video;28/04/2017 16:20:00;RegretRiver;17;2017;89;8,15;16;6839;46;2651;81
+Jawa Timur;Low;10;9;Twitter;Image;10/09/2019 21:00:00;HeartAttic;37;2019;0;21,63;21;6929;840;4572;149
+Kalimantan Barat;Medium;28;1;TikTok;Image;28/01/2022 13:45:00;PromiseGallery;5;2022;435;32,58;13;3944;445;2824;40
+Kalimantan Selatan;Medium;15;6;Instagram;Video;15/06/2016 22:30:00;EchoedConversation;25;2016;201;40,35;22;3304;936;3098;113
+Kalimantan Tengah;Medium;20;8;Instagram;Video;20/08/2021 15:45:00;SunshineDancer;34;2021;214;33;15;5005;744;2909;2
+Kalimantan Timur;Medium;12;4;Twitter;Image;12/04/2018 18:30:00;EchoedLaughter;15;2018;121;49,84;18;4541;579;1561;78
+Kalimantan Utara;Low;15;2;TikTok;Video;15/02/2022 12:20:00;GardenOfJoy;8;2022;137;5,56;12;2200;83;4320;20
+Kepulauan Riau;Medium;28;10;Instagram;Image;28/10/2019 14:15:00;DreamChaser;44;2019;38;30,36;14;2720;702;2770;101
+Lampung;Low;22;12;Twitter;Image;22/12/2017 21:00:00;StarSerenader;51;2017;277;21,05;21;7887;436;3995;128
+Maluku;Medium;10;6;TikTok;Image;10/06/2020 17:30:00;GlowAchiever;24;2020;286;44,09;17;7795;807;2869;172
+Maluku Utara;Low;18;9;Instagram;Video;18/09/2016 19:45:00;DanceHarmony;39;2016;368;12,04;19;5927;105;4368;53
+Nusa Tenggara Barat;Low;10;3;Twitter;Image;10/03/2023 14:30:00;LaughterCup;10;2023;265;15,6;14;4956;44;2577;93
+Nusa Tenggara Timur;Medium;5;5;TikTok;Video;05/05/2019 12:15:00;QuiltedCompassion;19;2019;474;37,62;12;4722;473;2945;161
+Papua;High;28;8;Instagram;Image;28/08/2018 16:00:00;FriendshipGarden;35;2018;262;78,1;16;1089;998;1740;99
+Papua Barat;Medium;15;11;Twitter;Image;15/11/2022 20:45:00;MelodyOfLove;47;2022;283;31,24;20;6880;907;4344;167
+Papua Tengah;Medium;2;7;Instagram;Image;02/07/2019 17:00:00;ColorfulLaughter;27;2019;197;50,55;17;9919;907;2277;47
+Papua Pegunungan;Medium;18;4;TikTok;Image;18/04/2021 14:20:00;SymphonyFervor;17;2021;387;33,55;14;1815;946;4420;150
+Papua Selatan;High;5;2;Twitter;Video;05/02/2023 19:30:00;WrappedDelight;6;2023;190;83,31;19;3801;953;1414;35
+Papua Barat Daya;Low;22;9;Instagram;Video;22/09/2018 12:45:00;MazeDiscovery;38;2018;318;15,76;12;2488;92;2913;49
+Riau;High;10;12;TikTok;Video;10/12/2016 21:15:00;CloudsOfBlessings;50;2016;116;190,39;21;4762;815;583;179
+Sulawesi Barat;Low;28;5;Twitter;Image;28/05/2020 16:00:00;CometCreativity;22;2020;41;7,07;16;4886;78;2518;59
+Sulawesi Selatan;Low;15;11;Instagram;Image;15/11/2017 22:30:00;FireworksTriumph;46;2017;157;25,71;22;8930;507;3042;118
+Sulawesi Tengah;High;2;8;TikTok;Image;02/08/2021 19:00:00;LaughterSymphony;32;2021;330;146,11;19;9429;634;772;164
+Sulawesi Tenggara;Medium;28;3;Instagram;Video;28/03/2019 15:30:00;EmotionCarnival;13;2019;185;36,56;15;5675;971;3553;143
+Sulawesi Utara;Low;12;5;Twitter;Image;12/05/2018 17:30:00;ParisDreamer;19;2018;481;27,14;17;6347;734;4761;77
+Sumatera Barat;Medium;28;9;Instagram;Image;28/09/2022 15:45:00;DisneylandExplorer;40;2022;465;40,76;15;1743;632;3123;176
+Sumatera Selatan;High;10;11;TikTok;Image;10/11/2019 14:00:00;FerrariSpeedster;46;2019;135;73,56;14;5147;222;749;194
+Sumatera Utara;High;2;4;Instagram;Video;02/04/2021 18:20:00;KeukenhofAdventurer;14;2021;70;148,06;18;1428;850;749;189
+Aceh;High;22;8;Twitter;Image;22/08/2017 21:30:00;KyotoAdventurer;34;2017;377;256,12;21;1577;864;556;183
+Bali;Medium;15;6;Instagram;Video;15/06/2020 16:45:00;CanyonMarveler;25;2020;39;37,77;16;9611;256;1030;94
+Bangka Belitung;Low;10;9;TikTok;Image;10/09/2016 19:15:00;SantoriniTraveler;37;2016;179;17,64;19;6888;74;1582;26
+Banten;Medium;28;1;Twitter;Image;28/01/2023 13:00:00;PetraExplorer;4;2023;382;54,13;13;1805;821;2455;126
+Bengkulu;Medium;18;4;Instagram;Image;18/04/2019 16:30:00;VeniceRomantic;16;2019;368;51,01;16;7505;393;1727;120
+DI Yogyakarta;Low;5;11;TikTok;Image;05/11/2017 22:00:00;MachuPicchuAdventurer;45;2017;311;15,71;22;6503;193;3278;11
+DKI Jakarta;Medium;20;7;Instagram;Image;20/07/2022 21:45:00;TimesSquareExplorer;30;2022;373;38,63;21;4072;863;3484;110
+Gorontalo;Medium;15;3;Twitter;Image;15/03/2018 17:30:00;ColosseumAdventurer;11;2018;159;69,38;17;3719;713;1388;91
+Jambi;Medium;28;10;TikTok;Image;28/10/2019 14:15:00;MaldivesSailor;44;2019;26;37,01;14;3747;397;1532;144
+Jawa Barat;Medium;10;6;Instagram;Image;10/06/2021 16:00:00;AmazonExplorer;24;2021;421;47,31;16;1364;972;3367;200
+Jawa Tengah;Low;18;8;Twitter;Image;18/08/2017 19:30:00;GreatWallWalker;33;2017;148;15,3;19;5165;386;4700;185
+Jawa Timur;Low;15;4;TikTok;Image;15/04/2020 05:30:00;FujiSummitAchiever;16;2020;480;19,88;5;2576;363;4507;53
+Kalimantan Barat;Medium;22;11;Instagram;Image;22/11/2016 13:00:00;AngkorWatAdventurer;48;2016;112;42,51;13;1404;118;774;99
+Kalimantan Selatan;Medium;10;1;Twitter;Image;10/01/2019 14:45:00;AlpsSkiAdventurer;2;2019;418;57,42;14;4405;540;1759;52
+Kalimantan Tengah;Medium;28;2;TikTok;Image;28/02/2023 16:20:00;KyotoBambooSeeker;9;2023;422;39,48;16;8939;961;3810;121
+Kalimantan Timur;Low;28;5;Instagram;Video;28/05/2018 18:30:00;NorwayFjordExplorer;22;2018;126;20,34;18;1468;454;3107;52
+Kalimantan Utara;High;15;9;Instagram;Video;15/09/2022 20:00:00;AdeleConcertGoer;38;2022;295;82,55;20;2630;482;957;13
+Kepulauan Riau;Low;28;7;Twitter;Image;28/07/2019 21:30:00;BeyonceDancer;31;2019;43;12,1;21;1973;172;3330;188
+Lampung;Low;10;5;TikTok;Video;10/05/2021 19:45:00;SwiftieDreamer;20;2021;354;20,9;19;1782;597;4885;70
+Maluku;Low;2;12;Instagram;Video;02/12/2018 22:15:00;QueenTributeFan;49;2018;21;28,99;22;5936;649;2684;108
+Maluku Utara;Low;18;8;Twitter;Image;18/08/2020 19:00:00;SheeranMelodyLover;34;2020;195;20,71;19;9478;426;3607;126
+Nusa Tenggara Barat;High;28;3;TikTok;Image;28/03/2017 20:30:00;MarsJoyExplorer;13;2017;387;143,11;20;3804;543;675;36
+Nusa Tenggara Timur;Medium;15;1;Instagram;Image;15/01/2022 21:15:00;MJTributeDancer;3;2022;374;52,74;21;8563;574;1858;32
+Papua;Medium;10;6;Twitter;Image;10/06/2019 18:45:00;SinatraCharmListener;24;2019;26;40,77;18;3302;742;2139;104
+Papua Barat;Low;20;3;TikTok;Image;20/03/2023 22:30:00;MetallicaMoshWarrior;12;2023;421;18,95;22;3080;207;3815;95
+Papua Tengah;Medium;28;11;Instagram;Video;28/11/2016 19:00:00;ColdplayHopeSeeker;49;2016;217;31,29;19;7310;697;3011;28
+Papua Pegunungan;Low;5;8;Instagram;Video;05/08/2018 20:00:00;BieberDanceEnthusiast;32;2018;249;11,4;20;8940;75;4578;198
+Papua Selatan;High;15;4;Twitter;Image;15/04/2021 21:30:00;GagaArtisticChameleon;16;2021;334;95,05;21;7026;510;910;21
+Papua Barat Daya;Medium;28;11;TikTok;Image;28/11/2019 19:45:00;AdeleMelodyTearjerker;48;2019;303;65,09;19;7848;683;1564;32
+Riau;High;22;6;Instagram;Video;22/06/2020 22:00:00;KatyPerryColorExplosion;26;2020;58;158,57;22;4999;996;712;75
+Sulawesi Barat;Medium;10;9;Twitter;Image;10/09/2017 20:15:00;JayZEmpireListener;37;2017;165;50,12;20;9687;295;1289;186
+Sulawesi Selatan;Low;28;2;TikTok;Video;28/02/2022 21:15:00;ShakiraHipsDancer;10;2022;421;29,98;21;3957;932;4946;130
+Sulawesi Tengah;High;15;5;Instagram;Image;15/05/2016 19:30:00;U2ConnectionSeeker;21;2016;266;103,54;19;3624;704;1074;142
+Sulawesi Tenggara;Low;10;12;Twitter;Video;10/12/2018 22:30:00;GunsNRosesRiffRockstar;50;2018;244;19,17;22;2219;657;4810;21
+Sulawesi Utara;Medium;22;1;TikTok;Image;22/01/2023 20:00:00;ArianaEuphoriaChaser;4;2023;451;54,49;20;4312;280;1426;46
+Sumatera Barat;Low;5;3;Instagram;Image;05/03/2020 18:45:00;MarleyReggaeTraveler;10;2020;360;28,52;18;5666;484;3583;178
+Sumatera Selatan;Medium;12;10;Twitter;Image;12/10/2018 20:00:00;MovieEnthusiastPremiereAttendee;41;2018;491;36,04;20;7066;966;4534;177
+Sumatera Utara;Low;25;6;Instagram;Video;25/06/2019 22:15:00;FilmLoverNostalgiaSeeker;26;2019;478;27;22;5433;494;3755;42
+Aceh;Medium;8;7;TikTok;Image;08/07/2020 19:30:00;WebSeriesViewerCharacterConnection;28;2020;458;49,66;19;1732;684;2672;185
+Bali;High;18;9;Twitter;Video;18/09/2017 21:45:00;IndieFilmmakerFestivalSuccess;38;2017;359;82,37;21;9846;767;1594;187
+Bangka Belitung;Low;15;1;Instagram;Image;15/01/2021 18:00:00;DramaEnthusiastHeartwarmingMoments;3;2021;355;29,54;18;8027;678;3541;13
+Banten;Low;28;2;TikTok;Image;28/02/2016 20:30:00;AwardWinningActorOscarsRecipient;10;2016;425;15,17;20;2273;210;4766;88
+Bengkulu;Low;20;4;Twitter;Image;20/04/2022 17:30:00;DocumentaryEnthusiastHiddenGemFinder;17;2022;461;24,3;17;1371;125;2658;60
+DI Yogyakarta;Low;5;11;Instagram;Image;05/11/2019 21:15:00;FilmBuffContemplativeViewer;45;2019;93;28,87;21;9222;481;2646;190
+DKI Jakarta;Low;12;7;TikTok;Image;12/07/2015 22:00:00;CrimeSeriesEnthusiastThrillSeeker;29;2015;480;22,58;22;2694;404;4651;166
+Gorontalo;Low;10;9;Twitter;Video;10/09/2020 19:45:00;FilmCriticSatisfactionSeeker;37;2020;53;28,88;19;2177;737;2850;33
+Jambi;Medium;15;7;Instagram;Image;15/07/2018 21:30:00;FootballFanWorldCupCelebration;29;2018;215;49,59;21;8587;857;2466;151
+Jawa Barat;Medium;8;8;Twitter;Video;08/08/2020 19:45:00;OlympicsEnthusiastGoldMedalWinner;32;2020;368;45,71;19;5325;388;1667;6
+Jawa Tengah;Medium;25;6;TikTok;Image;25/06/2019 22:15:00;CricketFanChampionshipThrills;26;2019;191;45,67;22;8228;313;1386;129
+Jawa Timur;Low;7;11;Instagram;Image;07/11/2021 17:30:00;MarathonSpectatorRecordBreaking;46;2021;419;23,41;17;6681;307;3755;153
+Kalimantan Barat;Low;10;9;Twitter;Video;10/09/2017 20:15:00;TennisEnthusiastGrandSlamDrama;37;2017;282;20,3;20;5947;663;4694;8
+Kalimantan Selatan;High;20;6;TikTok;Video;20/06/2022 21:00:00;BasketballFanUnderdogTriumph;26;2022;232;104,59;21;5657;474;850;183
+Kalimantan Tengah;Medium;10;4;Instagram;Video;10/04/2016 18:30:00;GolfEnthusiastPrecisionVictory;16;2016;423;31,07;18;9344;635;3927;162
+Kalimantan Timur;Low;24;11;Twitter;Image;24/11/2019 19:45:00;F1FanHighSpeedRaceExcitement;48;2019;99;22,78;19;6849;665;3938;133
+Kalimantan Utara;High;28;9;TikTok;Video;28/09/2015 22:30:00;CyclingEnthusiastWorldChampion;40;2015;109;128,3;22;5766;858;788;44
+Kepulauan Riau;Medium;12;12;Instagram;Image;12/12/2020 20:00:00;HockeyFanComebackVictory;50;2020;339;58,68;20;9645;329;1261;72
+Lampung;High;2;11;Twitter;Image;02/11/2019 18:45:00;SoccerFanTeamDefeats;44;2019;498;139,48;18;5657;312;656;105
+Maluku;Low;10;7;Instagram;Image;10/07/2018 21:15:00;TennisEnthusiastUnexpectedSetback;28;2018;173;7,62;21;6249;77;4412;86
+Maluku Utara;High;18;9;TikTok;Image;18/09/2020 19:30:00;BoxingFanChampionshipDefeat;38;2020;490;82,81;19;2091;432;1204;75
+Nusa Tenggara Barat;Low;15;5;Twitter;Image;15/05/2017 22:00:00;CyclingEnthusiastTireBlowout;20;2017;211;17,81;22;2174;265;3778;197
+Nusa Tenggara Timur;Low;5;4;Instagram;Image;05/04/2021 20:15:00;GymnasticsFanRoutineFall;15;2021;147;17,31;20;4621;81;1698;66
+Papua;Low;20;8;TikTok;Video;20/08/2016 18:30:00;GolfEnthusiastMissedPutt;34;2016;431;27,9;18;7840;755;4820;159
+Papua Barat;Medium;12;2;Twitter;Image;12/02/2019 19:45:00;BasketballFanTeamLosses;7;2019;298;40,5;19;2303;836;3116;128
+Papua Tengah;Medium;28;6;Instagram;Image;28/06/2015 20:00:00;SwimmingEnthusiastRaceSetback;27;2015;13;64,41;20;6022;549;1020;95
+Papua Pegunungan;Low;8;1;TikTok;Image;08/01/2022 21:30:00;WeightliftingFanFailedRecord;2;2022;90;15,13;21;9450;302;3556;146
+Papua Selatan;Medium;15;12;Twitter;Image;15/12/2018 20:15:00;SoccerPlayerOwnGoalMoment;50;2018;313;34,74;20;2378;912;3759;81
+Papua Barat Daya;Low;10;7;Instagram;Image;10/07/2021 19:00:00;NatureEnthusiastSunsetWonder;28;2021;365;19,99;19;1475;243;3357;63
+Riau;High;28;9;Twitter;Image;28/09/2019 20:30:00;TravelEnthusiastRoadTripDiscovery;39;2019;403;132,03;20;9976;578;846;136
+Sulawesi Barat;Low;15;3;TikTok;Image;15/03/2022 18:45:00;UrbanExplorerCafeSolitude;12;2022;485;26,39;18;7106;143;2850;124
+Sulawesi Selatan;Medium;5;11;Instagram;Video;05/11/2017 21:15:00;ArtEnthusiastStreetArtExploration;45;2017;374;57,91;21;3848;658;2060;161
+Sulawesi Tengah;Low;20;5;Twitter;Image;20/05/2020 16:30:00;ScienceEnthusiastDiscoveryMoment;21;2020;443;21,49;16;5338;510;4733;64
+Sulawesi Tenggara;High;22;8;TikTok;Video;22/08/2016 19:45:00;MusicLoverLiveOrchestraExperience;35;2016;301;119,71;19;9903;227;543;122
+Sulawesi Utara;Low;10;4;Instagram;Video;10/04/2023 17:15:00;HomeBakerDeliciousMemories;15;2023;18;3,45;17;2009;64;4925;88
+Sumatera Barat;Low;18;12;Twitter;Image;18/12/2015 18:00:00;HistoryBuffMuseumExploration;51;2015;450;24,57;18;3860;164;3313;200
+Sumatera Selatan;Medium;8;10;TikTok;Video;08/10/2021 20:30:00;BookwormCaptivatingNovelEscape;41;2021;196;43,39;20;1758;150;1134;146
+Sumatera Utara;Low;22;3;Instagram;Image;22/03/2019 21:45:00;PhotographyEnthusiastMarketMoments;12;2019;466;29,06;21;9456;378;3063;46
+Aceh;Low;15;6;Twitter;Video;15/06/2018 22:00:00;DanceEnthusiastCityNightPerformance;24;2018;383;23,3;22;6535;589;4987;190
+Bali;Medium;28;8;Instagram;Video;28/08/2019 19:30:00;FoodieMarketStreetFoodExploration;35;2019;130;33,06;19;4065;243;1488;119
+Bangka Belitung;High;1;12;TikTok;Image;01/12/2022 17:45:00;SnowLoverWinterEnthusiast;49;2022;449;83,81;17;6874;766;1507;48
+Banten;Low;10;4;Twitter;Image;10/04/2017 21:15:00;MysteryBookwormSuspensefulRead;15;2017;406;29,93;21;1782;929;4794;100
+Bengkulu;Medium;15;5;Instagram;Image;15/05/2020 18:30:00;GardeningEnthusiastFlowerGarden;20;2020;93;33,56;18;6921;308;1353;53
+DI Yogyakarta;Low;22;9;TikTok;Image;22/09/2016 20:00:00;AstronomyEnthusiastStargazing;39;2016;182;18,32;20;8415;436;4022;119
+DKI Jakarta;Medium;12;2;Twitter;Image;12/02/2023 19:45:00;CoffeeLoverWritersRetreat;7;2023;402;46,37;19;5777;483;2301;182
+Gorontalo;Low;10;11;Instagram;Image;10/11/2015 21:00:00;FashionEnthusiastDesignerShowcase;46;2015;129;17,43;21;4780;245;2335;33
+Jambi;Low;20;7;TikTok;Image;20/07/2021 18:15:00;SurfingEnthusiastWaveRider;30;2021;256;27,94;18;5003;781;4216;141
+Jawa Barat;Low;18;4;Twitter;Video;18/04/2019 20:30:00;HistoryExplorerAncientCityTour;16;2019;368;15,47;20;8432;264;4725;99
+Jawa Tengah;Medium;20;5;Twitter;Image;20/05/2023 19:45:00;CrushAvoider;20;2023;323;31,24;19;4926;737;3655;82
+Jawa Timur;Medium;21;5;Instagram;Video;21/05/2023 21:00:00;MovieBuff;21;2023;483;37;21;6911;815;3784;102
+Kalimantan Barat;High;22;5;TikTok;Image;22/05/2023 14:30:00;SelfieAddict;21;2023;477;111,99;14;6833;328;826;120
+Kalimantan Selatan;Low;23;5;Twitter;Video;23/05/2023 16:45:00;AudioExplorer;21;2023;351;26,52;16;3832;22;1516;29
+Kalimantan Tengah;Medium;24;5;Instagram;Video;24/05/2023 13:15:00;MemeCreator;21;2023;415;69,91;13;8478;559;1585;134
+Kalimantan Timur;Medium;25;5;TikTok;Image;25/05/2023 19:00:00;FashionBlunder;21;2023;234;37,88;19;6280;750;2896;113
+Kalimantan Utara;Medium;26;5;Twitter;Image;26/05/2023 14:20:00;GroupGenius;21;2023;213;55,14;14;7784;906;2044;8
+Kepulauan Riau;Medium;27;5;Instagram;Image;27/05/2023 21:15:00;ChipExplorer;21;2023;486;43,63;21;3152;892;3594;190
+Lampung;Low;28;5;TikTok;Image;28/05/2023 12:00:00;ExcitementSeeker;22;2023;141;18,23;12;4155;549;4508;132
+Maluku;Medium;29;5;Twitter;Image;29/05/2023 23:30:00;NightReader;22;2023;428;39,52;23;1059;826;3608;172
+Maluku Utara;High;30;5;Instagram;Video;30/05/2023 20:45:00;GamingEnthusiast;22;2023;488;277,48;20;2247;981;564;96
+Nusa Tenggara Barat;Low;31;5;TikTok;Image;31/05/2023 15:30:00;LazyWatcher;22;2023;453;18,28;15;1391;301;4551;78
+Nusa Tenggara Timur;Medium;1;6;Twitter;Video;01/06/2023 18:00:00;TrendExplorer;22;2023;372;42,03;18;8944;725;2979;155
+Papua;Low;2;6;Instagram;Image;02/06/2023 14:30:00;MusicalExplorer;22;2023;238;17,76;14;2311;136;2771;118
+Papua Barat;Medium;3;6;TikTok;Video;03/06/2023 21:15:00;MusicAficionado;22;2023;425;33,6;21;5419;485;2893;62
+Papua Tengah;Low;4;6;Twitter;Image;04/06/2023 19:30:00;HomeChef;23;2023;72;23,36;19;9880;294;2016;105
+Papua Pegunungan;Medium;5;6;Instagram;Image;05/06/2023 10:00:00;AdventureSeeker;23;2023;330;63,83;10;2479;824;2093;182
+Papua Selatan;Medium;6;6;TikTok;Video;06/06/2023 22:30:00;DanceEnthusiast;23;2023;123;34,2;22;9456;950;3480;117
+Papua Barat Daya;Medium;7;6;Twitter;Video;07/06/2023 12:45:00;NostalgiaExplorer;23;2023;466;67,49;12;2287;806;1895;7
+Riau;Low;8;6;Instagram;Image;08/06/2023 16:00:00;HomeDecorator;23;2023;191;22,82;16;5203;707;4387;103
+Sulawesi Barat;Low;9;6;TikTok;Video;09/06/2023 14:00:00;ArtExplorer;23;2023;285;24,99;14;7347;223;2389;89
+Sulawesi Selatan;Low;10;6;Twitter;Video;10/06/2023 17:30:00;ThoughtfulBlogger;23;2023;136;17,45;17;6568;601;4813;103
+Sulawesi Tengah;High;11;6;Instagram;Image;11/06/2023 15:30:00;NovelEnthusiast;24;2023;440;93,65;15;8202;660;1228;50
+Sulawesi Tenggara;Medium;12;6;Twitter;Image;12/06/2023 18:00:00;WiseSoul;24;2023;270;41,07;18;9625;190;1137;7
+Sulawesi Utara;High;13;6;TikTok;Video;13/06/2023 14:45:00;ArtAdventurer;24;2023;276;124,08;14;3752;695;897;142
+Sumatera Barat;High;14;6;Instagram;Image;14/06/2023 19:30:00;HomeChefSenior;24;2023;356;87,03;19;9158;992;1673;108
+Sumatera Selatan;Low;15;6;Twitter;Image;15/06/2023 12:15:00;LinguisticExplorer;24;2023;145;27,71;12;8109;895;4450;193
+Sumatera Utara;Low;16;6;TikTok;Video;16/06/2023 21:45:00;MusicConnoisseur;24;2023;394;20,17;21;4898;226;3604;107
+Aceh;Medium;17;6;Instagram;Image;17/06/2023 15:00:00;PhotographySenior;24;2023;451;48,44;15;5670;973;3227;139
+Bali;Low;18;6;Twitter;Image;18/06/2023 11:30:00;TeaTimeSenior;25;2023;196;17,66;11;7336;163;2373;60
+Bangka Belitung;High;19;6;TikTok;Video;19/06/2023 16:30:00;RoadTripSenior;25;2023;202;93,65;16;8613;405;787;130
+Banten;High;20;6;Instagram;Image;20/06/2023 14:20:00;ChoirEnthusiast;25;2023;200;81,69;14;9272;790;1322;90
+Bengkulu;Low;21;6;Twitter;Image;21/06/2023 19:00:00;MeditationSenior;25;2023;419;28,56;19;3997;848;4989;158
+DI Yogyakarta;Low;22;6;TikTok;Image;22/06/2023 13:45:00;GardenEnthusiast;25;2023;355;19,31;13;8081;197;2988;25
+DKI Jakarta;Medium;23;6;Instagram;Image;23/06/2023 18:45:00;WineConnoisseur;25;2023;232;46,48;18;5916;610;1930;55
+Gorontalo;High;24;6;Twitter;Video;24/06/2023 16:15:00;ArtisticSenior;25;2023;322;116,65;16;2399;777;1021;92
+Jambi;Medium;25;6;TikTok;Image;25/06/2023 20:30:00;MemoiristSenior;26;2023;270;48,3;20;4366;375;1439;50
+Jawa Barat;Low;26;6;Instagram;Image;26/06/2023 14:00:00;HistoryEnthusiast;26;2023;217;25,03;14;6063;571;3288;35
+Jawa Tengah;Low;27;6;Twitter;Image;27/06/2023 17:45:00;FamilyChefSenior;26;2023;292;11,83;17;8406;43;4042;143
+Jawa Timur;Low;28;6;TikTok;Image;28/06/2023 22:15:00;NaturePhotographySenior;26;2023;171;13,52;22;8899;311;4890;179
+Kalimantan Barat;Medium;29;6;Instagram;Image;29/06/2023 16:30:00;JazzMusicLover;26;2023;334;56,63;16;8448;746;2059;86
+Kalimantan Selatan;Medium;30;6;Twitter;Image;30/06/2023 19:30:00;SeniorWordsmith;26;2023;442;39,6;19;3798;135;1634;70
+Kalimantan Tengah;Medium;1;7;Instagram;Video;01/07/2023 14:00:00;SoloAdventurer;26;2023;385;35,86;14;2115;933;3926;90
+Kalimantan Timur;High;2;7;TikTok;Video;02/07/2023 18:30:00;CarEnthusiastSenior;27;2023;36;120,27;18;3820;575;656;178
+Kalimantan Utara;Medium;3;7;Twitter;Video;03/07/2023 12:45:00;GreenThumbSenior;27;2023;209;33,2;12;7585;842;3545;126
+Kepulauan Riau;High;4;7;Instagram;Video;04/07/2023 17:00:00;FamilyHostSenior;27;2023;383;78,59;17;7368;730;1523;84
+Lampung;Medium;5;7;Twitter;Video;05/07/2023 20:15:00;DanceEnthusiastSenior;27;2023;326;67,72;20;2024;735;1679;76
+Maluku;Medium;6;7;TikTok;Image;06/07/2023 14:30:00;ArtGalleryVisitor;27;2023;294;30,63;14;9709;745;3689;91
+Maluku Utara;Low;7;7;Instagram;Video;07/07/2023 19:45:00;SeniorBookClub;27;2023;146;29,02;19;4047;16;851;85
+Nusa Tenggara Barat;Medium;8;7;Twitter;Image;08/07/2023 16:00:00;SeniorPicnicHost;27;2023;467;52,59;16;8409;583;2101;55
+Nusa Tenggara Timur;Medium;9;7;TikTok;Image;09/07/2023 22:30:00;SeniorActor;28;2023;482;33,57;22;3755;802;3861;12
+Papua;High;10;7;Instagram;Image;10/07/2023 14:20:00;SeniorHikerExplorer;28;2023;360;139,41;14;1710;650;751;37
+Papua Barat;Low;11;7;Twitter;Video;11/07/2023 18:45:00;SeniorPhotographerExhibitor;28;2023;495;14,48;18;3032;28;4041;62
+Papua Tengah;Low;12;7;TikTok;Image;12/07/2023 13:45:00;SeniorCyclingEnthusiast;28;2023;95;18,14;13;4707;254;1968;8
+Papua Pegunungan;Low;13;7;Instagram;Image;13/07/2023 20:00:00;SeniorWineConnoisseur;28;2023;38;4,76;20;7743;87;4389;84
+Papua Selatan;Low;14;7;Twitter;Image;14/07/2023 16:15:00;SeniorBallroomDancer;28;2023;51;19,92;16;3957;21;1260;179
+Papua Barat Daya;Low;15;7;TikTok;Image;15/07/2023 19:30:00;SeniorPaintingOrganizer;28;2023;31;5,14;19;4251;31;4356;162
+Riau;Low;16;7;Instagram;Image;16/07/2023 14:00:00;SeniorMemoriesHost;29;2023;167;13,19;14;1365;235;4095;138
+Sulawesi Barat;Medium;17;7;Twitter;Image;17/07/2023 22:15:00;SeniorStargazer;29;2023;440;60,3;22;8816;798;2330;167
+Sulawesi Selatan;Low;18;7;TikTok;Video;18/07/2023 16:30:00;SeniorJazzFestivalGoer;29;2023;115;10,55;16;2550;205;4760;182
+Sulawesi Tengah;Low;19;7;Instagram;Image;19/07/2023 19:45:00;WisdomBloggerSenior;29;2023;373;22,86;19;8717;600;4440;42
+Sulawesi Tenggara;Low;20;7;Twitter;Image;20/07/2023 17:00:00;SeniorCharityRunner;29;2023;237;21,48;17;7117;230;2705;114
+Sulawesi Utara;High;1;8;Instagram;Video;01/08/2023 13:30:00;PhysicsWhizHighSchool;31;2023;172;78,34;13;7141;948;1491;48
+Sumatera Barat;Medium;2;8;Twitter;Video;02/08/2023 14:45:00;CodeExplorerHighSchool;31;2023;125;45,57;14;3036;92;836;164
+Sumatera Selatan;Medium;3;8;TikTok;Video;03/08/2023 12:15:00;DebateWarriorHighSchool;31;2023;425;34,42;12;5475;377;2885;191
+Sumatera Utara;Medium;4;8;Instagram;Video;04/08/2023 16:30:00;PhotoClubHighSchool;31;2023;448;36,43;16;4935;989;4082;50
+Aceh;Low;5;8;Twitter;Image;05/08/2023 19:45:00;PromDreamerHighSchool;31;2023;181;13,56;19;5857;215;3385;63
+Bali;Medium;6;8;TikTok;Image;06/08/2023 14:00:00;OutdoorClassHighSchool;32;2023;363;43,04;14;7086;428;2142;131
+Bangka Belitung;Low;7;8;Instagram;Image;07/08/2023 19:45:00;PaintSpillHighSchool;32;2023;388;15,37;19;3408;143;3820;56
+Banten;Low;8;8;Twitter;Video;08/08/2023 16:00:00;SkateProHighSchool;32;2023;171;25,26;16;3440;894;4825;154
+Bengkulu;Low;9;8;TikTok;Video;09/08/2023 22:30:00;KpopFangirlHighSchool;32;2023;331;22,58;22;9310;490;4047;93
+DI Yogyakarta;Low;10;8;Instagram;Image;10/08/2023 14:20:00;ChemistryWizardHighSchool;32;2023;114;26,27;14;7814;856;4176;127
+DKI Jakarta;Medium;11;8;Twitter;Image;11/08/2023 18:45:00;BirthdayPartyPlannerHighSchool;32;2023;28;50,56;18;2953;747;1683;76
+Gorontalo;Low;12;8;TikTok;Image;12/08/2023 13:45:00;DramaClubStarHighSchool;32;2023;396;19,12;13;8661;211;3327;29
+Jambi;Medium;13;8;Instagram;Video;13/08/2023 20:00:00;FantasyBookNerdHighSchool;33;2023;427;34,69;20;1683;777;4041;198
+Jawa Barat;Medium;14;8;Twitter;Image;14/08/2023 16:15:00;DoodleMasterHighSchool;33;2023;467;32,88;16;6677;655;3780;121
+Jawa Tengah;Medium;15;8;TikTok;Image;15/08/2023 19:30:00;HandstandChallengeHighSchool;33;2023;278;44,26;19;1492;586;2266;139
+Jawa Timur;Medium;16;8;Instagram;Image;16/08/2023 14:00:00;SnackSmugglerHighSchool;33;2023;313;40,35;14;7639;485;2243;107
+Kalimantan Barat;Low;17;8;Twitter;Image;17/08/2023 22:15:00;SleepoverHostHighSchool;33;2023;423;21,18;22;8551;68;3249;197
+Kalimantan Selatan;Medium;18;8;TikTok;Video;18/08/2023 16:30:00;TikTokFailHighSchool;33;2023;276;36,56;16;2991;418;2076;65
+Kalimantan Tengah;Low;19;8;Instagram;Image;19/08/2023 19:45:00;SocialMediaBlunderHighSchool;33;2023;178;28,21;19;9592;940;4264;85
+Kalimantan Timur;Low;20;8;Twitter;Image;20/08/2023 17:00:00;CrushFailHighSchool;34;2023;127;13;17;9492;219;3824;151
+Kalimantan Utara;Low;21;8;Instagram;Image;21/08/2023 15:45:00;PaperPlaneExpertHighSchool;34;2023;303;14,32;15;8781;112;3143;35
+Kepulauan Riau;Low;22;8;TikTok;Video;22/08/2023 12:30:00;JugglingProHighSchool;34;2023;260;18,18;12;4743;438;4230;71
+Lampung;Medium;23;8;Twitter;Image;23/08/2023 16:45:00;SnackNinjaHighSchool;34;2023;191;49,32;16;3616;821;2194;70
+Maluku;Low;24;8;Instagram;Image;24/08/2023 18:20:00;ScavengerHuntMasterHighSchool;34;2023;161;22,59;18;2564;790;4958;169
+Maluku Utara;Low;25;8;TikTok;Image;25/08/2023 14:15:00;RainDanceCelebrationHighSchool;34;2023;381;22,92;14;7736;500;4376;122
+Nusa Tenggara Barat;Medium;26;8;Twitter;Video;26/08/2023 17:30:00;GroupChatBlunderHighSchool;34;2023;27;42,2;17;9596;446;1429;130
+Nusa Tenggara Timur;Low;27;8;Instagram;Video;27/08/2023 20:45:00;MagicFailHighSchool;35;2023;41;20,26;20;2442;726;4476;140
+Papua;Medium;28;8;Twitter;Video;28/08/2023 16:00:00;OrigamiProHighSchool;35;2023;236;43,39;16;5765;979;2980;78
+Papua Barat;Low;29;8;Instagram;Image;29/08/2023 13:45:00;HackySackChampionHighSchool;35;2023;213;26,49;13;1799;847;4281;74
+Papua Tengah;Medium;30;8;TikTok;Image;30/08/2023 17:30:00;SecretHandshakeHighSchool;35;2023;86;59,26;17;7694;680;1539;146
+Papua Pegunungan;Low;31;8;Twitter;Video;31/08/2023 20:15:00;BurgerQuestHighSchool;35;2023;413;22,68;20;5326;439;3850;21
+Papua Selatan;Low;1;9;Instagram;Image;01/09/2023 14:45:00;ComedyGeniusHighSchool;35;2023;42;12,11;14;8573;13;1718;153
+Papua Barat Daya;Medium;2;9;TikTok;Image;02/09/2023 18:30:00;LoveLetterBlunderHighSchool;35;2023;255;40,69;18;9901;477;2175;153
+Riau;Medium;3;9;Twitter;Video;03/09/2023 22:00:00;ScienceExperimentProHighSchool;36;2023;125;67,56;22;1018;134;675;197
+Sulawesi Barat;Medium;4;9;Instagram;Image;04/09/2023 15:15:00;BraceletCraftsmanHighSchool;36;2023;141;38,32;15;7182;359;1378;28
+Sulawesi Selatan;Medium;5;9;Twitter;Image;05/09/2023 12:30:00;CartwheelMasterHighSchool;36;2023;443;44,19;12;9276;498;2168;17
+Sulawesi Tengah;Low;6;9;TikTok;Image;06/09/2023 16:45:00;MovieMarathonHostHighSchool;36;2023;496;28,36;16;5207;334;2937;3
+Sulawesi Tenggara;Low;7;9;Instagram;Video;07/09/2023 18:20:00;HairColorExperimentHighSchool;36;2023;34;14,42;18;7173;402;4341;190
+Sulawesi Utara;High;8;9;TikTok;Image;08/09/2023 14:15:00;TimeCapsuleCreatorHighSchool;36;2023;48;105,02;14;8981;861;937;75
+Sumatera Barat;High;9;9;Twitter;Video;09/09/2023 17:30:00;ClassroomBlunderHighSchool;36;2023;366;161,46;17;2183;678;742;154
+Sumatera Selatan;Low;10;9;Instagram;Video;10/09/2023 20:45:00;SmoothieConnoisseurHighSchool;37;2023;86;8,37;20;4146;182;3945;62
+Sumatera Utara;Low;11;9;Twitter;Image;11/09/2023 15:45:00;OverwhelmedHighSchoolStudent;37;2023;37;14,95;15;9691;451;4476;181
+Aceh;Low;12;9;Instagram;Image;12/09/2023 12:30:00;DealingWithHateHighSchool;37;2023;296;12,6;12;2364;51;3309;70
+Bali;Low;13;9;TikTok;Image;13/09/2023 16:45:00;ToughDayHighSchool;37;2023;82;11,66;16;2659;366;4888;122
+Bangka Belitung;Medium;14;9;Twitter;Image;14/09/2023 18:20:00;SportsTeamRejectionHighSchool;37;2023;377;47,65;18;1001;493;2019;92
+Banten;Low;15;9;Instagram;Image;15/09/2023 14:15:00;CafeteriaConflictHighSchool;37;2023;185;20,12;14;2942;630;4782;147
+Bengkulu;Low;16;9;TikTok;Image;16/09/2023 17:30:00;ProjectGradeDisappointmentHighSchool;37;2023;355;21,49;17;5229;494;4848;193
+DI Yogyakarta;Low;17;9;Twitter;Image;17/09/2023 20:45:00;PersonalSetbackHighSchool;38;2023;142;27,49;20;5964;641;3390;149
+DKI Jakarta;Medium;18;9;Instagram;Video;18/09/2023 22:00:00;LonelySaturdayHighSchool;38;2023;473;69,87;22;9844;818;1955;75
+Gorontalo;Low;19;9;TikTok;Image;19/09/2023 15:15:00;CyberbullyingVictimHighSchool;38;2023;118;21,9;15;8913;165;2123;182
+Jambi;Medium;20;9;Twitter;Video;20/09/2023 12:30:00;RainyDayBluesHighSchool;38;2023;387;32,34;12;8352;80;2016;185
+Jawa Barat;Medium;21;9;Instagram;Video;21/09/2023 16:45:00;MissedOpportunityHighSchool;38;2023;280;39,69;16;7352;700;2746;110
+Jawa Tengah;Medium;22;9;TikTok;Image;22/09/2023 18:20:00;RumorVictimHighSchool;38;2023;437;44,83;18;3546;915;3181;74
+Jawa Timur;Medium;23;9;Twitter;Video;23/09/2023 14:15:00;FlatTireWoesHighSchool;38;2023;417;37,28;14;2243;807;3809;196
+Kalimantan Barat;Low;24;9;Instagram;Video;24/09/2023 17:30:00;FriendMovingAwayHighSchool;39;2023;153;28,05;17;2607;816;3953;140
+Kalimantan Selatan;High;25;9;TikTok;Image;25/09/2023 20:45:00;CollegeRejectionHighSchool;39;2023;488;181,08;20;6307;997;925;190
+Kalimantan Tengah;Low;26;9;Twitter;Image;26/09/2023 14:15:00;GamingToxicityHighSchool;39;2023;453;29,26;14;5385;559;3742;83
+Kalimantan Timur;High;27;9;Instagram;Image;27/09/2023 17:30:00;BadHairDayBluesHighSchool;39;2023;259;209,41;17;9126;910;595;77
+Kalimantan Utara;Medium;28;9;TikTok;Image;28/09/2023 22:00:00;ProjectFailureDespairHighSchool;39;2023;290;43,46;22;8590;899;2830;41
+Kepulauan Riau;Low;29;9;Twitter;Image;29/09/2023 15:45:00;OpinionsHateHighSchool;39;2023;166;10,5;15;8557;145;3799;88
+Lampung;Low;30;9;Instagram;Image;30/09/2023 18:20:00;TechMalfunctionWoesHighSchool;39;2023;36;7,53;18;7684;150;4225;132
+Maluku;Low;1;10;TikTok;Video;01/10/2023 14:15:00;MissedEventBluesHighSchool;40;2023;477;27;14;1882;744;4763;65
+Maluku Utara;Low;2;10;Instagram;Video;02/10/2023 16:45:00;StudyTechniqueExperimentHighSchool;40;2023;3;6,65;16;8829;266;4599;37
+Nusa Tenggara Barat;Medium;3;10;Twitter;Video;03/10/2023 12:30:00;CommunityCleanupHighSchool;40;2023;191;41,73;12;9552;179;1239;147
+Nusa Tenggara Timur;Low;4;10;TikTok;Image;04/10/2023 18:20:00;BookRecommendationsHighSchool;40;2023;8;25,07;18;9440;905;3861;55
+Papua;Low;5;10;Instagram;Video;05/10/2023 14:15:00;BakeSaleRecipeExperimentHighSchool;40;2023;178;14,1;14;6581;173;3384;126
+Papua Barat;Medium;6;10;Twitter;Image;06/10/2023 17:30:00;SchoolProjectCollaborationHighSchool;40;2023;183;51,1;17;2303;847;2229;109
+Papua Tengah;Medium;7;10;Instagram;Image;07/10/2023 20:45:00;ExtracurricularExplorationHighSchool;40;2023;311;55,93;20;6576;658;1965;130
+Papua Pegunungan;Low;8;10;TikTok;Video;08/10/2023 15:15:00;PartTimeJobExplorationHighSchool;41;2023;333;22;15;8645;149;2645;100
+Papua Selatan;Low;9;10;Twitter;Video;09/10/2023 22:00:00;SchoolAssemblyParticipationHighSchool;41;2023;298;20,19;22;8979;680;4938;19
+Papua Barat Daya;Medium;10;10;Instagram;Video;10/10/2023 14:15:00;PhotographyHobbyHighSchool;41;2023;15;32,34;14;5620;255;1379;176
+Riau;Medium;11;10;TikTok;Image;11/10/2023 16:45:00;ScienceFairParticipationHighSchool;41;2023;317;33,8;16;6348;105;1352;35
+Sulawesi Barat;High;12;10;Twitter;Image;12/10/2023 18:20:00;TimeManagementWorkshopHighSchool;41;2023;484;89,24;18;2654;755;1487;88
+Sulawesi Selatan;Medium;13;10;Instagram;Video;13/10/2023 12:30:00;CharityEventVolunteerHighSchool;41;2023;212;40,92;12;1015;804;2749;109
+Sulawesi Tengah;Medium;14;10;TikTok;Image;14/10/2023 17:30:00;GroupProjectCollaborationHighSchool;41;2023;373;41,6;17;1460;890;3351;131
+Sulawesi Tenggara;Medium;15;10;Twitter;Video;15/10/2023 20:45:00;DebateClubParticipationHighSchool;42;2023;426;51,44;20;3656;926;2885;132
+Sulawesi Utara;Medium;16;10;Instagram;Image;16/10/2023 15:45:00;BirthdaySurpriseHighSchool;42;2023;284;56,89;15;2123;494;1401;19
+Sumatera Barat;Low;17;10;Twitter;Image;17/10/2023 12:30:00;CodingSuccessHighSchool;42;2023;348;29,27;12;4054;680;3587;22
+Sumatera Selatan;High;18;10;TikTok;Image;18/10/2023 16:45:00;TalentShowSupportHighSchool;42;2023;246;85,47;16;4235;299;833;167
+Sumatera Utara;Low;19;10;Instagram;Video;19/10/2023 18:20:00;WeekendHikeHighSchool;42;2023;206;24,4;18;1333;759;4041;21
+Aceh;Low;20;10;Twitter;Image;20/10/2023 14:15:00;SportsVictoryHighSchool;42;2023;271;16,36;14;3613;39;2872;160
+Bali;High;21;10;TikTok;Video;21/10/2023 17:30:00;PenPalConnectionHighSchool;42;2023;36;93,93;17;3309;899;1120;117
+Bangka Belitung;High;22;10;Instagram;Image;22/10/2023 20:45:00;MuralCreationHighSchool;43;2023;384;93,42;20;5592;813;1458;165
+Banten;Low;10;11;Instagram;Video;10/11/2015 16:45:00;ArtExhibitionJoyHighSchool;46;2015;88;19,7;16;8733;764;4928;119
+Bengkulu;Low;14;9;Twitter;Video;14/09/2016 12:30:00;TrackFieldSuccessHighSchool;38;2016;475;16,96;12;2159;227;4292;26
+DI Yogyakarta;Low;18;8;TikTok;Video;18/08/2017 18:20:00;ScienceProjectSuccessHighSchool;33;2017;194;16,06;18;9850;464;4714;99
+DKI Jakarta;Medium;22;6;Instagram;Image;22/06/2018 14:15:00;BirthdayPartyJoyHighSchool;25;2018;336;36,97;14;6140;835;3441;101
+Gorontalo;Low;5;4;Twitter;Image;05/04/2019 17:30:00;CharityFundraisingTriumphHighSchool;14;2019;14;4,32;17;9863;49;3659;95
+Jambi;High;29;2;TikTok;Image;29/02/2020 20:45:00;MulticulturalFestivalJoyHighSchool;9;2020;220;110,36;20;9807;896;1100;98
+Jawa Barat;Medium;15;11;Instagram;Video;15/11/2020 15:15:00;VirtualTalentShowSuccessHighSchool;47;2020;431;30,11;15;9917;651;3633;12
+Jawa Tengah;;;;;;;;;;;;;;;;
